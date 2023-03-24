@@ -1,0 +1,1387 @@
+,Country,Energy_type,Year,GDP,Population,CO2_emission
+0,World,all_energy_types,2019,127690.247059,7714631.06383,35584.933497695
+1,World,coal,2019,127690.247059,7714631.06383,15773.074340737823
+2,World,natural_gas,2019,127690.247059,7714631.06383,7607.936617844
+3,World,petroleum_n_other_liquids,2019,127690.247059,7714631.06383,12203.922539102654
+4,World,nuclear,2019,127690.247059,7714631.06383,0.0
+5,World,renewables_n_other,2019,127690.247059,7714631.06383,0.0
+6,Afghanistan,all_energy_types,2019,79.4546,38050.9,9.391163087
+7,Afghanistan,coal,2019,79.4546,38050.9,4.752619277775776
+8,Afghanistan,natural_gas,2019,79.4546,38050.9,0.318251809
+9,Afghanistan,petroleum_n_other_liquids,2019,79.4546,38050.9,4.320292
+10,Afghanistan,nuclear,2019,79.4546,38050.9,0.0
+11,Afghanistan,renewables_n_other,2019,79.4546,38050.9,0.0
+12,Albania,all_energy_types,2019,38.2684,2879.92,4.031301559
+13,Albania,coal,2019,38.2684,2879.92,0.204335593307699
+14,Albania,natural_gas,2019,38.2684,2879.92,0.079780155
+15,Albania,petroleum_n_other_liquids,2019,38.2684,2879.92,3.747185810218978
+16,Albania,nuclear,2019,38.2684,2879.92,0.0
+17,Albania,renewables_n_other,2019,38.2684,2879.92,0.0
+18,Algeria,all_energy_types,2019,509.066,43030.4,145.987969135
+19,Algeria,coal,2019,509.066,43030.4,0.2326474468988602
+20,Algeria,natural_gas,2019,509.066,43030.4,89.160554488
+21,Algeria,petroleum_n_other_liquids,2019,509.066,43030.4,56.59476720000001
+22,Algeria,nuclear,2019,509.066,43030.4,0.0
+23,Algeria,renewables_n_other,2019,509.066,43030.4,0.0
+24,American Samoa,all_energy_types,2019,,55.312,0.35542766
+25,American Samoa,coal,2019,,55.312,0.0
+26,American Samoa,natural_gas,2019,,55.312,0.0
+27,American Samoa,petroleum_n_other_liquids,2019,,55.312,0.3554276602528645
+28,American Samoa,nuclear,2019,,55.312,0.0
+29,American Samoa,renewables_n_other,2019,,55.312,0.0
+30,Angola,all_energy_types,2019,193.826,31849.8,17.644576606
+31,Angola,coal,2019,193.826,31849.8,0.0
+32,Angola,natural_gas,2019,193.826,31849.8,1.679087606
+33,Angola,petroleum_n_other_liquids,2019,193.826,31849.8,15.965489
+34,Angola,nuclear,2019,193.826,31849.8,0.0
+35,Angola,renewables_n_other,2019,193.826,31849.8,0.0
+36,Antarctica,all_energy_types,2019,,,0.013782287
+37,Antarctica,coal,2019,,,0.0
+38,Antarctica,natural_gas,2019,,,0.0
+39,Antarctica,petroleum_n_other_liquids,2019,,,0.0137822865684904
+40,Antarctica,nuclear,2019,,,0.0
+41,Antarctica,renewables_n_other,2019,,,0.0
+42,Antigua and Barbuda,all_energy_types,2019,2.12893,97.0566,0.7348894
+43,Antigua and Barbuda,coal,2019,2.12893,97.0566,0.0
+44,Antigua and Barbuda,natural_gas,2019,2.12893,97.0566,0.0
+45,Antigua and Barbuda,petroleum_n_other_liquids,2019,2.12893,97.0566,0.7348893999933047
+46,Antigua and Barbuda,nuclear,2019,2.12893,97.0566,0.0
+47,Antigua and Barbuda,renewables_n_other,2019,2.12893,97.0566,0.0
+48,Argentina,all_energy_types,2019,833.501,44832.7,191.358658271
+49,Argentina,coal,2019,833.501,44832.7,3.045990256963641
+50,Argentina,natural_gas,2019,833.501,44832.7,98.150879926
+51,Argentina,petroleum_n_other_liquids,2019,833.501,44832.7,90.161788088
+52,Argentina,nuclear,2019,833.501,44832.7,0.0
+53,Argentina,renewables_n_other,2019,833.501,44832.7,0.0
+54,Armenia,all_energy_types,2019,35.5628,2957.09,5.976457104
+55,Armenia,coal,2019,35.5628,2957.09,0.0044168161795601
+56,Armenia,natural_gas,2019,35.5628,2957.09,4.869455288
+57,Armenia,petroleum_n_other_liquids,2019,35.5628,2957.09,1.1025849999958193
+58,Armenia,nuclear,2019,35.5628,2957.09,0.0
+59,Armenia,renewables_n_other,2019,35.5628,2957.09,0.0
+60,Aruba,all_energy_types,2019,3.20784,106.298,1.20493081
+61,Aruba,coal,2019,3.20784,106.298,0.0
+62,Aruba,natural_gas,2019,3.20784,106.298,0.0
+63,Aruba,petroleum_n_other_liquids,2019,3.20784,106.298,1.2049308100031524
+64,Aruba,nuclear,2019,3.20784,106.298,0.0
+65,Aruba,renewables_n_other,2019,3.20784,106.298,0.0
+66,Australia,all_energy_types,2019,1226.586,25407.68,410.865148205
+67,Australia,coal,2019,1226.586,25407.68,166.9900280863814
+68,Australia,natural_gas,2019,1226.586,25407.68,84.149358999
+69,Australia,petroleum_n_other_liquids,2019,1226.586,25407.68,159.72576112
+70,Australia,nuclear,2019,1226.586,25407.68,0.0
+71,Australia,renewables_n_other,2019,1226.586,25407.68,0.0
+72,Austria,all_energy_types,2019,467.708,8885.205,63.844027897
+73,Austria,coal,2019,467.708,8885.205,10.384165498079478
+74,Austria,natural_gas,2019,467.708,8885.205,17.063722399
+75,Austria,petroleum_n_other_liquids,2019,467.708,8885.205,36.39614
+76,Austria,nuclear,2019,467.708,8885.205,0.0
+77,Austria,renewables_n_other,2019,467.708,8885.205,0.0
+78,Azerbaijan,all_energy_types,2019,145.705,10041.2,33.285637886
+79,Azerbaijan,coal,2019,145.705,10041.2,0.0057683879910546
+80,Azerbaijan,natural_gas,2019,145.705,10041.2,20.695090498
+81,Azerbaijan,petroleum_n_other_liquids,2019,145.705,10041.2,12.584779
+82,Azerbaijan,nuclear,2019,145.705,10041.2,0.0
+83,Azerbaijan,renewables_n_other,2019,145.705,10041.2,0.0
+84,Bahrain,all_energy_types,2019,70.4457,1483.76,39.014442502
+85,Bahrain,coal,2019,70.4457,1483.76,0.0
+86,Bahrain,natural_gas,2019,70.4457,1483.76,31.503267502
+87,Bahrain,petroleum_n_other_liquids,2019,70.4457,1483.76,7.511175
+88,Bahrain,nuclear,2019,70.4457,1483.76,0.0
+89,Bahrain,renewables_n_other,2019,70.4457,1483.76,0.0
+90,Bangladesh,all_energy_types,2019,798.113,163021.0,90.78163083
+91,Bangladesh,coal,2019,798.113,163021.0,10.029380905906152
+92,Bangladesh,natural_gas,2019,798.113,163021.0,59.526546924
+93,Bangladesh,petroleum_n_other_liquids,2019,798.113,163021.0,21.225703
+94,Bangladesh,nuclear,2019,798.113,163021.0,0.0
+95,Bangladesh,renewables_n_other,2019,798.113,163021.0,0.0
+96,Barbados,all_energy_types,2019,4.52673,286.99,1.702104465
+97,Barbados,coal,2019,4.52673,286.99,0.0
+98,Barbados,natural_gas,2019,4.52673,286.99,0.039823575
+99,Barbados,petroleum_n_other_liquids,2019,4.52673,286.99,1.6622808903591153
+100,Barbados,nuclear,2019,4.52673,286.99,0.0
+101,Barbados,renewables_n_other,2019,4.52673,286.99,0.0
+102,Belarus,all_energy_types,2019,178.892,9449.62,56.523597698
+103,Belarus,coal,2019,178.892,9449.62,1.661982030731321
+104,Belarus,natural_gas,2019,178.892,9449.62,36.502515667
+105,Belarus,petroleum_n_other_liquids,2019,178.892,9449.62,18.3591
+106,Belarus,nuclear,2019,178.892,9449.62,0.0
+107,Belarus,renewables_n_other,2019,178.892,9449.62,0.0
+108,Belgium,all_energy_types,2019,557.634,11497.32,132.279624636
+109,Belgium,coal,2019,557.634,11497.32,9.82993892332396
+110,Belgium,natural_gas,2019,557.634,11497.32,34.392231713
+111,Belgium,petroleum_n_other_liquids,2019,557.634,11497.32,88.057454
+112,Belgium,nuclear,2019,557.634,11497.32,0.0
+113,Belgium,renewables_n_other,2019,557.634,11497.32,0.0
+114,Belize,all_energy_types,2019,2.78824,390.339,0.577712955
+115,Belize,coal,2019,2.78824,390.339,0.0
+116,Belize,natural_gas,2019,2.78824,390.339,0.0
+117,Belize,petroleum_n_other_liquids,2019,2.78824,390.339,0.5777129545499713
+118,Belize,nuclear,2019,2.78824,390.339,0.0
+119,Belize,renewables_n_other,2019,2.78824,390.339,0.0
+120,Benin,all_energy_types,2019,38.0152,11807.2,7.736424191
+121,Benin,coal,2019,38.0152,11807.2,0.2787795434538457
+122,Benin,natural_gas,2019,38.0152,11807.2,0.037150648
+123,Benin,petroleum_n_other_liquids,2019,38.0152,11807.2,7.420494
+124,Benin,nuclear,2019,38.0152,11807.2,0.0
+125,Benin,renewables_n_other,2019,38.0152,11807.2,0.0
+126,Bermuda,all_energy_types,2019,6.64648,62.5574,0.797279806
+127,Bermuda,coal,2019,6.64648,62.5574,0.0
+128,Bermuda,natural_gas,2019,6.64648,62.5574,0.0
+129,Bermuda,petroleum_n_other_liquids,2019,6.64648,62.5574,0.797279806
+130,Bermuda,nuclear,2019,6.64648,62.5574,0.0
+131,Bermuda,renewables_n_other,2019,6.64648,62.5574,0.0
+132,Bhutan,all_energy_types,2019,8.10603,762.867,0.967306365
+133,Bhutan,coal,2019,8.10603,762.867,0.3253932046089953
+134,Bhutan,natural_gas,2019,8.10603,762.867,0.0
+135,Bhutan,petroleum_n_other_liquids,2019,8.10603,762.867,0.64191316
+136,Bhutan,nuclear,2019,8.10603,762.867,0.0
+137,Bhutan,renewables_n_other,2019,8.10603,762.867,0.0
+138,Bolivia,all_energy_types,2019,89.7455,11513.0,18.335565837
+139,Bolivia,coal,2019,89.7455,11513.0,0.0
+140,Bolivia,natural_gas,2019,89.7455,11513.0,6.269280837
+141,Bolivia,petroleum_n_other_liquids,2019,89.7455,11513.0,12.066285
+142,Bolivia,nuclear,2019,89.7455,11513.0,0.0
+143,Bolivia,renewables_n_other,2019,89.7455,11513.0,0.0
+144,Bosnia and Herzegovina,all_energy_types,2019,47.1135,3304.39,17.266938088
+145,Bosnia and Herzegovina,coal,2019,47.1135,3304.39,11.990419555364324
+146,Bosnia and Herzegovina,natural_gas,2019,47.1135,3304.39,0.431389533
+147,Bosnia and Herzegovina,petroleum_n_other_liquids,2019,47.1135,3304.39,4.845129
+148,Bosnia and Herzegovina,nuclear,2019,47.1135,3304.39,0.0
+149,Bosnia and Herzegovina,renewables_n_other,2019,47.1135,3304.39,0.0
+150,Botswana,all_energy_types,2019,36.97997,2302.775,6.188921367
+151,Botswana,coal,2019,36.97997,2302.775,3.132777551112082
+152,Botswana,natural_gas,2019,36.97997,2302.775,0.0
+153,Botswana,petroleum_n_other_liquids,2019,36.97997,2302.775,3.056143815909416
+154,Botswana,nuclear,2019,36.97997,2302.775,0.0
+155,Botswana,renewables_n_other,2019,36.97997,2302.775,0.0
+156,Brazil,all_energy_types,2019,3041.299,211246.2,453.443272227
+157,Brazil,coal,2019,3041.299,211246.2,68.47503768728932
+158,Brazil,natural_gas,2019,3041.299,211246.2,64.86363154
+159,Brazil,petroleum_n_other_liquids,2019,3041.299,211246.2,320.104603
+160,Brazil,nuclear,2019,3041.299,211246.2,0.0
+161,Brazil,renewables_n_other,2019,3041.299,211246.2,0.0
+162,British Virgin Islands,all_energy_types,2019,1.44981,30.0137,0.216635316
+163,British Virgin Islands,coal,2019,1.44981,30.0137,0.0
+164,British Virgin Islands,natural_gas,2019,1.44981,30.0137,0.0
+165,British Virgin Islands,petroleum_n_other_liquids,2019,1.44981,30.0137,0.2166353158910171
+166,British Virgin Islands,nuclear,2019,1.44981,30.0137,0.0
+167,British Virgin Islands,renewables_n_other,2019,1.44981,30.0137,0.0
+168,Brunei,all_energy_types,2019,26.6516,433.149,10.22519768
+169,Brunei,coal,2019,26.6516,433.149,0.0
+170,Brunei,natural_gas,2019,26.6516,433.149,7.977883709
+171,Brunei,petroleum_n_other_liquids,2019,26.6516,433.149,2.2473139708619887
+172,Brunei,nuclear,2019,26.6516,433.149,0.0
+173,Brunei,renewables_n_other,2019,26.6516,433.149,0.0
+174,Bulgaria,all_energy_types,2019,149.2549,6969.69,41.542759685
+175,Bulgaria,coal,2019,149.2549,6969.69,22.481787707990566
+176,Bulgaria,natural_gas,2019,149.2549,6969.69,6.027753255
+177,Bulgaria,petroleum_n_other_liquids,2019,149.2549,6969.69,13.033218722
+178,Bulgaria,nuclear,2019,149.2549,6969.69,0.0
+179,Bulgaria,renewables_n_other,2019,149.2549,6969.69,0.0
+180,Burkina Faso,all_energy_types,2019,39.3968,20333.3,4.391342618
+181,Burkina Faso,coal,2019,39.3968,20333.3,0.0
+182,Burkina Faso,natural_gas,2019,39.3968,20333.3,0.0
+183,Burkina Faso,petroleum_n_other_liquids,2019,39.3968,20333.3,4.391342618295
+184,Burkina Faso,nuclear,2019,39.3968,20333.3,0.0
+185,Burkina Faso,renewables_n_other,2019,39.3968,20333.3,0.0
+186,Burma,all_energy_types,2019,275.791,54067.4,32.968880216
+187,Burma,coal,2019,275.791,54067.4,3.206584998058846
+188,Burma,natural_gas,2019,275.791,54067.4,9.294336218
+189,Burma,petroleum_n_other_liquids,2019,275.791,54067.4,20.467959
+190,Burma,nuclear,2019,275.791,54067.4,0.0
+191,Burma,renewables_n_other,2019,275.791,54067.4,0.0
+192,Burundi,all_energy_types,2019,8.84175,11536.2,0.67983302
+193,Burundi,coal,2019,8.84175,11536.2,0.0
+194,Burundi,natural_gas,2019,8.84175,11536.2,0.0
+195,Burundi,petroleum_n_other_liquids,2019,8.84175,11536.2,0.67983302
+196,Burundi,nuclear,2019,8.84175,11536.2,0.0
+197,Burundi,renewables_n_other,2019,8.84175,11536.2,0.0
+198,Cabo Verde,all_energy_types,2019,3.77316,549.825,1.001529634
+199,Cabo Verde,coal,2019,3.77316,549.825,0.0
+200,Cabo Verde,natural_gas,2019,3.77316,549.825,0.0
+201,Cabo Verde,petroleum_n_other_liquids,2019,3.77316,549.825,1.0015296339076718
+202,Cabo Verde,nuclear,2019,3.77316,549.825,0.0
+203,Cabo Verde,renewables_n_other,2019,3.77316,549.825,0.0
+204,Cambodia,all_energy_types,2019,69.1922,16482.4,11.890895952
+205,Cambodia,coal,2019,69.1922,16482.4,4.096287951911915
+206,Cambodia,natural_gas,2019,69.1922,16482.4,0.0
+207,Cambodia,petroleum_n_other_liquids,2019,69.1922,16482.4,7.794607999988951
+208,Cambodia,nuclear,2019,69.1922,16482.4,0.0
+209,Cambodia,renewables_n_other,2019,69.1922,16482.4,0.0
+210,Cameroon,all_energy_types,2019,88.9149,25885.9,7.245713401
+211,Cameroon,coal,2019,88.9149,25885.9,0.0
+212,Cameroon,natural_gas,2019,88.9149,25885.9,2.151580401
+213,Cameroon,petroleum_n_other_liquids,2019,88.9149,25885.9,5.094133
+214,Cameroon,nuclear,2019,88.9149,25885.9,0.0
+215,Cameroon,renewables_n_other,2019,88.9149,25885.9,0.0
+216,Canada,all_energy_types,2019,1737.87,37601.23,613.089866972
+217,Canada,coal,2019,1737.87,37601.23,59.42010636306554
+218,Canada,natural_gas,2019,1737.87,37601.23,245.386044681
+219,Canada,petroleum_n_other_liquids,2019,1737.87,37601.23,308.283715928
+220,Canada,nuclear,2019,1737.87,37601.23,0.0
+221,Canada,renewables_n_other,2019,1737.87,37601.23,0.0
+222,Cayman Islands,all_energy_types,2019,3.77842,64.9202,0.667298
+223,Cayman Islands,coal,2019,3.77842,64.9202,0.0
+224,Cayman Islands,natural_gas,2019,3.77842,64.9202,0.0
+225,Cayman Islands,petroleum_n_other_liquids,2019,3.77842,64.9202,0.6672979999850652
+226,Cayman Islands,nuclear,2019,3.77842,64.9202,0.0
+227,Cayman Islands,renewables_n_other,2019,3.77842,64.9202,0.0
+228,Central African Republic,all_energy_types,2019,4.13773,4751.85,0.278282
+229,Central African Republic,coal,2019,4.13773,4751.85,0.0
+230,Central African Republic,natural_gas,2019,4.13773,4751.85,0.0
+231,Central African Republic,petroleum_n_other_liquids,2019,4.13773,4751.85,0.278282
+232,Central African Republic,nuclear,2019,4.13773,4751.85,0.0
+233,Central African Republic,renewables_n_other,2019,4.13773,4751.85,0.0
+234,Chad,all_energy_types,2019,24.9406,15956.2,1.7162899
+235,Chad,coal,2019,24.9406,15956.2,0.0
+236,Chad,natural_gas,2019,24.9406,15956.2,0.0
+237,Chad,petroleum_n_other_liquids,2019,24.9406,15956.2,1.7162899
+238,Chad,nuclear,2019,24.9406,15956.2,0.0
+239,Chad,renewables_n_other,2019,24.9406,15956.2,0.0
+240,Chile,all_energy_types,2019,439.69,18922.75,86.874650457
+241,Chile,coal,2019,439.69,18922.75,25.38278228350298
+242,Chile,natural_gas,2019,439.69,18922.75,10.604137173
+243,Chile,petroleum_n_other_liquids,2019,439.69,18922.75,50.887731
+244,Chile,nuclear,2019,439.69,18922.75,0.0
+245,Chile,renewables_n_other,2019,439.69,18922.75,0.0
+246,China,all_energy_types,2019,23128.34,1434512.0,10608.600386434
+247,China,coal,2019,23128.34,1434512.0,8546.287449820698
+248,China,natural_gas,2019,23128.34,1434512.0,548.698591813
+249,China,petroleum_n_other_liquids,2019,23128.34,1434512.0,1513.6143448
+250,China,nuclear,2019,23128.34,1434512.0,0.0
+251,China,renewables_n_other,2019,23128.34,1434512.0,0.0
+252,Colombia,all_energy_types,2019,690.987,50225.2,75.94596771
+253,Colombia,coal,2019,690.987,50225.2,10.178125329600666
+254,Colombia,natural_gas,2019,690.987,50225.2,19.95179338
+255,Colombia,petroleum_n_other_liquids,2019,690.987,50225.2,45.816049
+256,Colombia,nuclear,2019,690.987,50225.2,0.0
+257,Colombia,renewables_n_other,2019,690.987,50225.2,0.0
+258,Comoros,all_energy_types,2019,2.384,851.027,0.301926504
+259,Comoros,coal,2019,2.384,851.027,0.0
+260,Comoros,natural_gas,2019,2.384,851.027,0.0
+261,Comoros,petroleum_n_other_liquids,2019,2.384,851.027,0.301926504
+262,Comoros,nuclear,2019,2.384,851.027,0.0
+263,Comoros,renewables_n_other,2019,2.384,851.027,0.0
+264,Congo-Brazzaville,all_energy_types,2019,17.937,5382.29,4.4339781
+265,Congo-Brazzaville,coal,2019,17.937,5382.29,0.0
+266,Congo-Brazzaville,natural_gas,2019,17.937,5382.29,2.7268481
+267,Congo-Brazzaville,petroleum_n_other_liquids,2019,17.937,5382.29,1.70713
+268,Congo-Brazzaville,nuclear,2019,17.937,5382.29,0.0
+269,Congo-Brazzaville,renewables_n_other,2019,17.937,5382.29,0.0
+270,Congo-Kinshasa,all_energy_types,2019,80.9978,86840.5,2.641757936
+271,Congo-Kinshasa,coal,2019,80.9978,86840.5,0.0843746409918449
+272,Congo-Kinshasa,natural_gas,2019,80.9978,86840.5,0.000740841
+273,Congo-Kinshasa,petroleum_n_other_liquids,2019,80.9978,86840.5,2.556642453972466
+274,Congo-Kinshasa,nuclear,2019,80.9978,86840.5,0.0
+275,Congo-Kinshasa,renewables_n_other,2019,80.9978,86840.5,0.0
+276,Cook Islands,all_energy_types,2019,,,0.1123327
+277,Cook Islands,coal,2019,,,0.0
+278,Cook Islands,natural_gas,2019,,,0.0
+279,Cook Islands,petroleum_n_other_liquids,2019,,,0.112332699998242
+280,Cook Islands,nuclear,2019,,,0.0
+281,Cook Islands,renewables_n_other,2019,,,0.0
+282,Costa Rica,all_energy_types,2019,94.3605,5046.06,7.923880021
+283,Costa Rica,coal,2019,94.3605,5046.06,0.0016432797170336
+284,Costa Rica,natural_gas,2019,94.3605,5046.06,0.0
+285,Costa Rica,petroleum_n_other_liquids,2019,94.3605,5046.06,7.922236741774
+286,Costa Rica,nuclear,2019,94.3605,5046.06,0.0
+287,Costa Rica,renewables_n_other,2019,94.3605,5046.06,0.0
+288,Croatia,all_energy_types,2019,110.2903,4064.95,17.147887659
+289,Croatia,coal,2019,110.2903,4064.95,1.4225004125562768
+290,Croatia,natural_gas,2019,110.2903,4064.95,5.409200246
+291,Croatia,petroleum_n_other_liquids,2019,110.2903,4064.95,10.316187
+292,Croatia,nuclear,2019,110.2903,4064.95,0.0
+293,Croatia,renewables_n_other,2019,110.2903,4064.95,0.0
+294,Cuba,all_energy_types,2019,152.228,11330.8,22.496372604
+295,Cuba,coal,2019,152.228,11330.8,0.0250576456650243
+296,Cuba,natural_gas,2019,152.228,11330.8,1.814325958
+297,Cuba,petroleum_n_other_liquids,2019,152.228,11330.8,20.656989
+298,Cuba,nuclear,2019,152.228,11330.8,0.0
+299,Cuba,renewables_n_other,2019,152.228,11330.8,0.0
+300,Cyprus,all_energy_types,2019,33.8259,888.005,8.226035335
+301,Cyprus,coal,2019,33.8259,888.005,0.0003998984159834
+302,Cyprus,natural_gas,2019,33.8259,888.005,0.0
+303,Cyprus,petroleum_n_other_liquids,2019,33.8259,888.005,8.225635437
+304,Cyprus,nuclear,2019,33.8259,888.005,0.0
+305,Cyprus,renewables_n_other,2019,33.8259,888.005,0.0
+306,Czech Republic,all_energy_types,2019,410.036,10677.38,104.272224724
+307,Czech Republic,coal,2019,410.036,10677.38,63.23584553447711
+308,Czech Republic,natural_gas,2019,410.036,10677.38,15.93969319
+309,Czech Republic,petroleum_n_other_liquids,2019,410.036,10677.38,25.096686
+310,Czech Republic,nuclear,2019,410.036,10677.38,0.0
+311,Czech Republic,renewables_n_other,2019,410.036,10677.38,0.0
+312,Côte d’Ivoire,all_energy_types,2019,141.232,25731.3,10.798183713
+313,Côte d’Ivoire,coal,2019,141.232,25731.3,0.0
+314,Côte d’Ivoire,natural_gas,2019,141.232,25731.3,3.740786713
+315,Côte d’Ivoire,petroleum_n_other_liquids,2019,141.232,25731.3,7.057397
+316,Côte d’Ivoire,nuclear,2019,141.232,25731.3,0.0
+317,Côte d’Ivoire,renewables_n_other,2019,141.232,25731.3,0.0
+318,Denmark,all_energy_types,2019,308.2223,5816.505,36.120050677
+319,Denmark,coal,2019,308.2223,5816.505,6.042494712284121
+320,Denmark,natural_gas,2019,308.2223,5816.505,6.209502965
+321,Denmark,petroleum_n_other_liquids,2019,308.2223,5816.505,23.868053
+322,Denmark,nuclear,2019,308.2223,5816.505,0.0
+323,Denmark,renewables_n_other,2019,308.2223,5816.505,0.0
+324,Djibouti,all_energy_types,2019,5.84841,973.201,0.67469826
+325,Djibouti,coal,2019,5.84841,973.201,0.0
+326,Djibouti,natural_gas,2019,5.84841,973.201,0.0
+327,Djibouti,petroleum_n_other_liquids,2019,5.84841,973.201,0.674698260030369
+328,Djibouti,nuclear,2019,5.84841,973.201,0.0
+329,Djibouti,renewables_n_other,2019,5.84841,973.201,0.0
+330,Dominica,all_energy_types,2019,0.802973,71.808,0.185983702
+331,Dominica,coal,2019,0.802973,71.808,0.0
+332,Dominica,natural_gas,2019,0.802973,71.808,0.0
+333,Dominica,petroleum_n_other_liquids,2019,0.802973,71.808,0.1859837017913472
+334,Dominica,nuclear,2019,0.802973,71.808,0.0
+335,Dominica,renewables_n_other,2019,0.802973,71.808,0.0
+336,Dominican Republic,all_energy_types,2019,190.149,10736.3,25.265246857
+337,Dominican Republic,coal,2019,190.149,10736.3,2.7903430133688145
+338,Dominican Republic,natural_gas,2019,190.149,10736.3,2.478653694
+339,Dominican Republic,petroleum_n_other_liquids,2019,190.149,10736.3,19.99625015
+340,Dominican Republic,nuclear,2019,190.149,10736.3,0.0
+341,Dominican Republic,renewables_n_other,2019,190.149,10736.3,0.0
+342,Ecuador,all_energy_types,2019,183.665,17357.2,37.349371309
+343,Ecuador,coal,2019,183.665,17357.2,0.0469442477006625
+344,Ecuador,natural_gas,2019,183.665,17357.2,0.750341061
+345,Ecuador,petroleum_n_other_liquids,2019,183.665,17357.2,36.552086
+346,Ecuador,nuclear,2019,183.665,17357.2,0.0
+347,Ecuador,renewables_n_other,2019,183.665,17357.2,0.0
+348,Egypt,all_energy_types,2019,1291.81,100370.0,235.494498177
+349,Egypt,coal,2019,1291.81,100370.0,10.299867288014685
+350,Egypt,natural_gas,2019,1291.81,100370.0,115.455033889
+351,Egypt,petroleum_n_other_liquids,2019,1291.81,100370.0,109.739597
+352,Egypt,nuclear,2019,1291.81,100370.0,0.0
+353,Egypt,renewables_n_other,2019,1291.81,100370.0,0.0
+354,El Salvador,all_energy_types,2019,52.962,6453.51,7.04650887
+355,El Salvador,coal,2019,52.962,6453.51,0.0022328704000301
+356,El Salvador,natural_gas,2019,52.962,6453.51,0.0
+357,El Salvador,petroleum_n_other_liquids,2019,52.962,6453.51,7.044276
+358,El Salvador,nuclear,2019,52.962,6453.51,0.0
+359,El Salvador,renewables_n_other,2019,52.962,6453.51,0.0
+360,Equatorial Guinea,all_energy_types,2019,21.3042,1355.99,4.669231827
+361,Equatorial Guinea,coal,2019,21.3042,1355.99,0.0
+362,Equatorial Guinea,natural_gas,2019,21.3042,1355.99,2.177554827
+363,Equatorial Guinea,petroleum_n_other_liquids,2019,21.3042,1355.99,2.491677
+364,Equatorial Guinea,nuclear,2019,21.3042,1355.99,0.0
+365,Equatorial Guinea,renewables_n_other,2019,21.3042,1355.99,0.0
+366,Eritrea,all_energy_types,2019,6.02485,3505.71,0.74245581
+367,Eritrea,coal,2019,6.02485,3505.71,0.0
+368,Eritrea,natural_gas,2019,6.02485,3505.71,0.0
+369,Eritrea,petroleum_n_other_liquids,2019,6.02485,3505.71,0.7424558095852776
+370,Eritrea,nuclear,2019,6.02485,3505.71,0.0
+371,Eritrea,renewables_n_other,2019,6.02485,3505.71,0.0
+372,Estonia,all_energy_types,2019,45.198,1328.98,5.509905901
+373,Estonia,coal,2019,45.198,1328.98,0.0831424765581572
+374,Estonia,natural_gas,2019,45.198,1328.98,0.979381424
+375,Estonia,petroleum_n_other_liquids,2019,45.198,1328.98,4.447382
+376,Estonia,nuclear,2019,45.198,1328.98,0.0
+377,Estonia,renewables_n_other,2019,45.198,1328.98,0.0
+378,Eswatini,all_energy_types,2019,10.5029,1148.38,1.203506529
+379,Eswatini,coal,2019,10.5029,1148.38,0.3004661973548689
+380,Eswatini,natural_gas,2019,10.5029,1148.38,0.0
+381,Eswatini,petroleum_n_other_liquids,2019,10.5029,1148.38,0.903040332000399
+382,Eswatini,nuclear,2019,10.5029,1148.38,0.0
+383,Eswatini,renewables_n_other,2019,10.5029,1148.38,0.0
+384,Ethiopia,all_energy_types,2019,231.935,112109.0,14.060422857
+385,Ethiopia,coal,2019,231.935,112109.0,1.3270269933072072
+386,Ethiopia,natural_gas,2019,231.935,112109.0,0.0
+387,Ethiopia,petroleum_n_other_liquids,2019,231.935,112109.0,12.73339586382926
+388,Ethiopia,nuclear,2019,231.935,112109.0,0.0
+389,Ethiopia,renewables_n_other,2019,231.935,112109.0,0.0
+390,Falkland Islands,all_energy_types,2019,,,0.04640807
+391,Falkland Islands,coal,2019,,,0.0
+392,Falkland Islands,natural_gas,2019,,,0.0
+393,Falkland Islands,petroleum_n_other_liquids,2019,,,0.0464080698581763
+394,Falkland Islands,nuclear,2019,,,0.0
+395,Falkland Islands,renewables_n_other,2019,,,0.0
+396,Faroe Islands,all_energy_types,2019,,,0.869814783
+397,Faroe Islands,coal,2019,,,0.0
+398,Faroe Islands,natural_gas,2019,,,0.0
+399,Faroe Islands,petroleum_n_other_liquids,2019,,,0.8698147829967423
+400,Faroe Islands,nuclear,2019,,,0.0
+401,Faroe Islands,renewables_n_other,2019,,,0.0
+402,Fiji,all_energy_types,2019,12.1234,890.116,1.649180054
+403,Fiji,coal,2019,12.1234,890.116,3.5783100809511645e-06
+404,Fiji,natural_gas,2019,12.1234,890.116,0.0
+405,Fiji,petroleum_n_other_liquids,2019,12.1234,890.116,1.6491764752779106
+406,Fiji,nuclear,2019,12.1234,890.116,0.0
+407,Fiji,renewables_n_other,2019,12.1234,890.116,0.0
+408,Finland,all_energy_types,2019,252.9957,5522.524,44.65256288
+409,Finland,coal,2019,252.9957,5522.524,11.44055222551888
+410,Finland,natural_gas,2019,252.9957,5522.524,5.006407654
+411,Finland,petroleum_n_other_liquids,2019,252.9957,5522.524,28.205603
+412,Finland,nuclear,2019,252.9957,5522.524,0.0
+413,Finland,renewables_n_other,2019,252.9957,5522.524,0.0
+414,Former Czechoslovakia,all_energy_types,2019,,,
+415,Former Czechoslovakia,coal,2019,,,
+416,Former Czechoslovakia,natural_gas,2019,,,
+417,Former Czechoslovakia,petroleum_n_other_liquids,2019,,,
+418,Former Czechoslovakia,nuclear,2019,,,0.0
+419,Former Czechoslovakia,renewables_n_other,2019,,,0.0
+420,Former Serbia and Montenegro,all_energy_types,2019,,,
+421,Former Serbia and Montenegro,coal,2019,,,
+422,Former Serbia and Montenegro,natural_gas,2019,,,
+423,Former Serbia and Montenegro,petroleum_n_other_liquids,2019,,,
+424,Former Serbia and Montenegro,nuclear,2019,,,0.0
+425,Former Serbia and Montenegro,renewables_n_other,2019,,,0.0
+426,Former U.S.S.R.,all_energy_types,2019,,,
+427,Former U.S.S.R.,coal,2019,,,
+428,Former U.S.S.R.,natural_gas,2019,,,
+429,Former U.S.S.R.,petroleum_n_other_liquids,2019,,,
+430,Former U.S.S.R.,nuclear,2019,,,0.0
+431,Former U.S.S.R.,renewables_n_other,2019,,,0.0
+432,Former Yugoslavia,all_energy_types,2019,,,
+433,Former Yugoslavia,coal,2019,,,
+434,Former Yugoslavia,natural_gas,2019,,,
+435,Former Yugoslavia,petroleum_n_other_liquids,2019,,,
+436,Former Yugoslavia,nuclear,2019,,,0.0
+437,Former Yugoslavia,renewables_n_other,2019,,,0.0
+438,France,all_energy_types,2019,2918.618,67266.75,341.980653833
+439,France,coal,2019,2918.618,67266.75,32.63645701282905
+440,France,natural_gas,2019,2918.618,67266.75,83.045619528
+441,France,petroleum_n_other_liquids,2019,2918.618,67266.75,226.298577292
+442,France,nuclear,2019,2918.618,67266.75,0.0
+443,France,renewables_n_other,2019,2918.618,67266.75,0.0
+444,French Guiana,all_energy_types,2019,,,0.870318457
+445,French Guiana,coal,2019,,,0.0
+446,French Guiana,natural_gas,2019,,,0.0
+447,French Guiana,petroleum_n_other_liquids,2019,,,0.8703184571732414
+448,French Guiana,nuclear,2019,,,0.0
+449,French Guiana,renewables_n_other,2019,,,0.0
+450,French Polynesia,all_energy_types,2019,,,1.029653081
+451,French Polynesia,coal,2019,,,0.0
+452,French Polynesia,natural_gas,2019,,,0.0
+453,French Polynesia,petroleum_n_other_liquids,2019,,,1.0296530812753588
+454,French Polynesia,nuclear,2019,,,0.0
+455,French Polynesia,renewables_n_other,2019,,,0.0
+456,Gabon,all_energy_types,2019,30.7828,2172.09,3.278674777
+457,Gabon,coal,2019,30.7828,2172.09,0.0
+458,Gabon,natural_gas,2019,30.7828,2172.09,0.714907777
+459,Gabon,petroleum_n_other_liquids,2019,30.7828,2172.09,2.563767
+460,Gabon,nuclear,2019,30.7828,2172.09,0.0
+461,Gabon,renewables_n_other,2019,30.7828,2172.09,0.0
+462,"Gambia, The",all_energy_types,2019,5.2609,2349.08,0.5941987
+463,"Gambia, The",coal,2019,5.2609,2349.08,0.0
+464,"Gambia, The",natural_gas,2019,5.2609,2349.08,0.0
+465,"Gambia, The",petroleum_n_other_liquids,2019,5.2609,2349.08,0.5941987000100921
+466,"Gambia, The",nuclear,2019,5.2609,2349.08,0.0
+467,"Gambia, The",renewables_n_other,2019,5.2609,2349.08,0.0
+468,Georgia,all_energy_types,2019,53.4418,3995.69,9.84778636
+469,Georgia,coal,2019,53.4418,3995.69,1.2947240081505575
+470,Georgia,natural_gas,2019,53.4418,3995.69,4.409477267
+471,Georgia,petroleum_n_other_liquids,2019,53.4418,3995.69,4.143585084567442
+472,Georgia,nuclear,2019,53.4418,3995.69,0.0
+473,Georgia,renewables_n_other,2019,53.4418,3995.69,0.0
+474,Germany,all_energy_types,2019,4182.05,83111.4,781.596225481
+475,Germany,coal,2019,4182.05,83111.4,290.79839559358606
+476,Germany,natural_gas,2019,4182.05,83111.4,179.713748887
+477,Germany,petroleum_n_other_liquids,2019,4182.05,83111.4,311.084081
+478,Germany,nuclear,2019,4182.05,83111.4,0.0
+479,Germany,renewables_n_other,2019,4182.05,83111.4,0.0
+480,"Germany, East",all_energy_types,2019,,,
+481,"Germany, East",coal,2019,,,
+482,"Germany, East",natural_gas,2019,,,
+483,"Germany, East",petroleum_n_other_liquids,2019,,,
+484,"Germany, East",nuclear,2019,,,0.0
+485,"Germany, East",renewables_n_other,2019,,,0.0
+486,"Germany, West",all_energy_types,2019,,,
+487,"Germany, West",coal,2019,,,
+488,"Germany, West",natural_gas,2019,,,
+489,"Germany, West",petroleum_n_other_liquids,2019,,,
+490,"Germany, West",nuclear,2019,,,0.0
+491,"Germany, West",renewables_n_other,2019,,,0.0
+492,Ghana,all_energy_types,2019,183.3466,30422.45,17.630249841
+493,Ghana,coal,2019,183.3466,30422.45,0.1158777970088052
+494,Ghana,natural_gas,2019,183.3466,30422.45,3.077682044
+495,Ghana,petroleum_n_other_liquids,2019,183.3466,30422.45,14.43669
+496,Ghana,nuclear,2019,183.3466,30422.45,0.0
+497,Ghana,renewables_n_other,2019,183.3466,30422.45,0.0
+498,Gibraltar,all_energy_types,2019,,,13.83733
+499,Gibraltar,coal,2019,,,0.0
+500,Gibraltar,natural_gas,2019,,,0.0
+501,Gibraltar,petroleum_n_other_liquids,2019,,,13.837330000010631
+502,Gibraltar,nuclear,2019,,,0.0
+503,Gibraltar,renewables_n_other,2019,,,0.0
+504,Greece,all_energy_types,2019,300.5935,10720.85,73.672821577
+505,Greece,coal,2019,300.5935,10720.85,19.06263319943293
+506,Greece,natural_gas,2019,300.5935,10720.85,9.556520378
+507,Greece,petroleum_n_other_liquids,2019,300.5935,10720.85,45.053668
+508,Greece,nuclear,2019,300.5935,10720.85,0.0
+509,Greece,renewables_n_other,2019,300.5935,10720.85,0.0
+510,Greenland,all_energy_types,2019,5.17249,56.6932,0.612110253
+511,Greenland,coal,2019,5.17249,56.6932,0.0
+512,Greenland,natural_gas,2019,5.17249,56.6932,0.0
+513,Greenland,petroleum_n_other_liquids,2019,5.17249,56.6932,0.612110253
+514,Greenland,nuclear,2019,5.17249,56.6932,0.0
+515,Greenland,renewables_n_other,2019,5.17249,56.6932,0.0
+516,Grenada,all_energy_types,2019,1.78501,111.971,0.317136381
+517,Grenada,coal,2019,1.78501,111.971,0.0
+518,Grenada,natural_gas,2019,1.78501,111.971,0.0
+519,Grenada,petroleum_n_other_liquids,2019,1.78501,111.971,0.3171363812827329
+520,Grenada,nuclear,2019,1.78501,111.971,0.0
+521,Grenada,renewables_n_other,2019,1.78501,111.971,0.0
+522,Guadeloupe,all_energy_types,2019,10.8742,399.978,1.90047837
+523,Guadeloupe,coal,2019,10.8742,399.978,0.0
+524,Guadeloupe,natural_gas,2019,10.8742,399.978,0.0
+525,Guadeloupe,petroleum_n_other_liquids,2019,10.8742,399.978,1.90047837
+526,Guadeloupe,nuclear,2019,10.8742,399.978,0.0
+527,Guadeloupe,renewables_n_other,2019,10.8742,399.978,0.0
+528,Guam,all_energy_types,2019,,167.294,1.82829707
+529,Guam,coal,2019,,167.294,0.0
+530,Guam,natural_gas,2019,,167.294,0.0
+531,Guam,petroleum_n_other_liquids,2019,,167.294,1.8282970696353515
+532,Guam,nuclear,2019,,167.294,0.0
+533,Guam,renewables_n_other,2019,,167.294,0.0
+534,Guatemala,all_energy_types,2019,144.896,17582.0,19.708437412
+535,Guatemala,coal,2019,144.896,17582.0,5.290207412189061
+536,Guatemala,natural_gas,2019,144.896,17582.0,0.0
+537,Guatemala,petroleum_n_other_liquids,2019,144.896,17582.0,14.41823
+538,Guatemala,nuclear,2019,144.896,17582.0,0.0
+539,Guatemala,renewables_n_other,2019,144.896,17582.0,0.0
+540,Guinea,all_energy_types,2019,28.567,12777.7,2.980732599
+541,Guinea,coal,2019,28.567,12777.7,0.0
+542,Guinea,natural_gas,2019,28.567,12777.7,0.0
+543,Guinea,petroleum_n_other_liquids,2019,28.567,12777.7,2.980732599112638
+544,Guinea,nuclear,2019,28.567,12777.7,0.0
+545,Guinea,renewables_n_other,2019,28.567,12777.7,0.0
+546,Guinea-Bissau,all_energy_types,2019,3.63339,1921.84,0.341846886
+547,Guinea-Bissau,coal,2019,3.63339,1921.84,0.0
+548,Guinea-Bissau,natural_gas,2019,3.63339,1921.84,0.0
+549,Guinea-Bissau,petroleum_n_other_liquids,2019,3.63339,1921.84,0.34184688575332
+550,Guinea-Bissau,nuclear,2019,3.63339,1921.84,0.0
+551,Guinea-Bissau,renewables_n_other,2019,3.63339,1921.84,0.0
+552,Guyana,all_energy_types,2019,10.1827,782.779,2.321942783
+553,Guyana,coal,2019,10.1827,782.779,0.0
+554,Guyana,natural_gas,2019,10.1827,782.779,0.0
+555,Guyana,petroleum_n_other_liquids,2019,10.1827,782.779,2.3219427825563845
+556,Guyana,nuclear,2019,10.1827,782.779,0.0
+557,Guyana,renewables_n_other,2019,10.1827,782.779,0.0
+558,Haiti,all_energy_types,2019,31.908,11262.5,3.457576199
+559,Haiti,coal,2019,31.908,11262.5,0.0
+560,Haiti,natural_gas,2019,31.908,11262.5,0.001166059
+561,Haiti,petroleum_n_other_liquids,2019,31.908,11262.5,3.456410139964942
+562,Haiti,nuclear,2019,31.908,11262.5,0.0
+563,Haiti,renewables_n_other,2019,31.908,11262.5,0.0
+564,Hawaiian Trade Zone,all_energy_types,2019,,,
+565,Hawaiian Trade Zone,coal,2019,,,
+566,Hawaiian Trade Zone,natural_gas,2019,,,
+567,Hawaiian Trade Zone,petroleum_n_other_liquids,2019,,,
+568,Hawaiian Trade Zone,nuclear,2019,,,0.0
+569,Hawaiian Trade Zone,renewables_n_other,2019,,,0.0
+570,Honduras,all_energy_types,2019,51.0377,9746.08,10.050869894
+571,Honduras,coal,2019,51.0377,9746.08,0.0474058938785291
+572,Honduras,natural_gas,2019,51.0377,9746.08,0.0
+573,Honduras,petroleum_n_other_liquids,2019,51.0377,9746.08,10.003464
+574,Honduras,nuclear,2019,51.0377,9746.08,0.0
+575,Honduras,renewables_n_other,2019,51.0377,9746.08,0.0
+576,Hong Kong,all_energy_types,2019,441.164,7444.312,97.454364217
+577,Hong Kong,coal,2019,441.164,7444.312,24.55882493945551
+578,Hong Kong,natural_gas,2019,441.164,7444.312,6.398229698
+579,Hong Kong,petroleum_n_other_liquids,2019,441.164,7444.312,66.49730957966878
+580,Hong Kong,nuclear,2019,441.164,7444.312,0.0
+581,Hong Kong,renewables_n_other,2019,441.164,7444.312,0.0
+582,Hungary,all_energy_types,2019,309.9521,9770.737,49.473804477
+583,Hungary,coal,2019,309.9521,9770.737,9.42367695837926
+584,Hungary,natural_gas,2019,309.9521,9770.737,19.169262519
+585,Hungary,petroleum_n_other_liquids,2019,309.9521,9770.737,20.880865
+586,Hungary,nuclear,2019,309.9521,9770.737,0.0
+587,Hungary,renewables_n_other,2019,309.9521,9770.737,0.0
+588,Iceland,all_energy_types,2019,19.3761,338.965,3.871221764
+589,Iceland,coal,2019,19.3761,338.965,0.4824047642255529
+590,Iceland,natural_gas,2019,19.3761,338.965,0.0
+591,Iceland,petroleum_n_other_liquids,2019,19.3761,338.965,3.388817
+592,Iceland,nuclear,2019,19.3761,338.965,0.0
+593,Iceland,renewables_n_other,2019,19.3761,338.965,0.0
+594,India,all_energy_types,2019,9310.29,1368140.0,2308.332020002
+595,India,coal,2019,9310.29,1368140.0,1589.0420064152586
+596,India,natural_gas,2019,9310.29,1368140.0,121.482030288
+597,India,petroleum_n_other_liquids,2019,9310.29,1368140.0,597.8079832986332
+598,India,nuclear,2019,9310.29,1368140.0,0.0
+599,India,renewables_n_other,2019,9310.29,1368140.0,0.0
+600,Indonesia,all_energy_types,2019,3227.667,270984.0,529.404672898
+601,Indonesia,coal,2019,3227.667,270984.0,222.1292034987061
+602,Indonesia,natural_gas,2019,3227.667,270984.0,88.995819736
+603,Indonesia,petroleum_n_other_liquids,2019,3227.667,270984.0,218.27964966292683
+604,Indonesia,nuclear,2019,3227.667,270984.0,0.0
+605,Indonesia,renewables_n_other,2019,3227.667,270984.0,0.0
+606,Iran,all_energy_types,2019,1099.27,82886.6,642.964293906
+607,Iran,coal,2019,1099.27,82886.6,5.215887777955595
+608,Iran,natural_gas,2019,1099.27,82886.6,429.261775922
+609,Iran,petroleum_n_other_liquids,2019,1099.27,82886.6,208.486630206
+610,Iran,nuclear,2019,1099.27,82886.6,0.0
+611,Iran,renewables_n_other,2019,1099.27,82886.6,0.0
+612,Iraq,all_energy_types,2019,426.217,39309.8,154.661243618
+613,Iraq,coal,2019,426.217,39309.8,0.0
+614,Iraq,natural_gas,2019,426.217,39309.8,28.345596618
+615,Iraq,petroleum_n_other_liquids,2019,426.217,39309.8,126.315647
+616,Iraq,nuclear,2019,426.217,39309.8,0.0
+617,Iraq,renewables_n_other,2019,426.217,39309.8,0.0
+618,Ireland,all_energy_types,2019,416.234,4941.865,37.056083624
+619,Ireland,coal,2019,416.234,4941.865,3.125458784116371
+620,Ireland,natural_gas,2019,416.234,4941.865,10.81668384
+621,Ireland,petroleum_n_other_liquids,2019,416.234,4941.865,23.113941
+622,Ireland,nuclear,2019,416.234,4941.865,0.0
+623,Ireland,renewables_n_other,2019,416.234,4941.865,0.0
+624,Israel,all_energy_types,2019,349.752,8518.31,64.594443709
+625,Israel,coal,2019,349.752,8518.31,18.19695132367819
+626,Israel,natural_gas,2019,349.752,8518.31,17.471345385
+627,Israel,petroleum_n_other_liquids,2019,349.752,8518.31,28.926147
+628,Israel,nuclear,2019,349.752,8518.31,0.0
+629,Israel,renewables_n_other,2019,349.752,8518.31,0.0
+630,Italy,all_energy_types,2019,2340.371,59910.75,339.577060466
+631,Italy,coal,2019,2340.371,59910.75,35.884054019845976
+632,Italy,natural_gas,2019,2340.371,59910.75,139.280288446
+633,Italy,petroleum_n_other_liquids,2019,2340.371,59910.75,164.412718
+634,Italy,nuclear,2019,2340.371,59910.75,0.0
+635,Italy,renewables_n_other,2019,2340.371,59910.75,0.0
+636,Jamaica,all_energy_types,2019,26.7529,2947.72,8.071670366
+637,Jamaica,coal,2019,26.7529,2947.72,0.1654057613087114
+638,Jamaica,natural_gas,2019,26.7529,2947.72,0.191445619
+639,Jamaica,petroleum_n_other_liquids,2019,26.7529,2947.72,7.7148189852222115
+640,Jamaica,nuclear,2019,26.7529,2947.72,0.0
+641,Jamaica,renewables_n_other,2019,26.7529,2947.72,0.0
+642,Japan,all_energy_types,2019,5359.05,126840.2,1140.949687525
+643,Japan,coal,2019,5359.05,126840.2,446.590770496759
+644,Japan,natural_gas,2019,5359.05,126840.2,231.746561028
+645,Japan,petroleum_n_other_liquids,2019,5359.05,126840.2,462.612356
+646,Japan,nuclear,2019,5359.05,126840.2,0.0
+647,Japan,renewables_n_other,2019,5359.05,126840.2,0.0
+648,Jordan,all_energy_types,2019,94.7813,10064.0,24.328952101
+649,Jordan,coal,2019,94.7813,10064.0,0.4320388095863844
+650,Jordan,natural_gas,2019,94.7813,10064.0,8.353029733
+651,Jordan,petroleum_n_other_liquids,2019,94.7813,10064.0,15.543883558
+652,Jordan,nuclear,2019,94.7813,10064.0,0.0
+653,Jordan,renewables_n_other,2019,94.7813,10064.0,0.0
+654,Kazakhstan,all_energy_types,2019,464.79,18544.5,269.713173947
+655,Kazakhstan,coal,2019,464.79,18544.5,196.3053833563759
+656,Kazakhstan,natural_gas,2019,464.79,18544.5,30.408378591
+657,Kazakhstan,petroleum_n_other_liquids,2019,464.79,18544.5,42.999412
+658,Kazakhstan,nuclear,2019,464.79,18544.5,0.0
+659,Kazakhstan,renewables_n_other,2019,464.79,18544.5,0.0
+660,Kenya,all_energy_types,2019,211.4738,52587.9,18.746653189
+661,Kenya,coal,2019,211.4738,52587.9,1.5256371886437
+662,Kenya,natural_gas,2019,211.4738,52587.9,0.0
+663,Kenya,petroleum_n_other_liquids,2019,211.4738,52587.9,17.221016
+664,Kenya,nuclear,2019,211.4738,52587.9,0.0
+665,Kenya,renewables_n_other,2019,211.4738,52587.9,0.0
+666,Kiribati,all_energy_types,2019,0.234263,117.742,0.07528207
+667,Kiribati,coal,2019,0.234263,117.742,0.0
+668,Kiribati,natural_gas,2019,0.234263,117.742,0.0
+669,Kiribati,petroleum_n_other_liquids,2019,0.234263,117.742,0.07528207
+670,Kiribati,nuclear,2019,0.234263,117.742,0.0
+671,Kiribati,renewables_n_other,2019,0.234263,117.742,0.0
+672,Kosovo,all_energy_types,2019,20.2266,1794.25,7.7258036
+673,Kosovo,coal,2019,20.2266,1794.25,5.807271599751648
+674,Kosovo,natural_gas,2019,20.2266,1794.25,0.0
+675,Kosovo,petroleum_n_other_liquids,2019,20.2266,1794.25,1.9185320000051107
+676,Kosovo,nuclear,2019,20.2266,1794.25,0.0
+677,Kosovo,renewables_n_other,2019,20.2266,1794.25,0.0
+678,Kuwait,all_energy_types,2019,180.991,4199.08,92.889166266
+679,Kuwait,coal,2019,180.991,4199.08,0.7460301475862796
+680,Kuwait,natural_gas,2019,180.991,4199.08,42.757806406
+681,Kuwait,petroleum_n_other_liquids,2019,180.991,4199.08,49.385329712
+682,Kuwait,nuclear,2019,180.991,4199.08,0.0
+683,Kuwait,renewables_n_other,2019,180.991,4199.08,0.0
+684,Kyrgyzstan,all_energy_types,2019,29.7684,6412.7,9.123794565
+685,Kyrgyzstan,coal,2019,29.7684,6412.7,3.217388495870844
+686,Kyrgyzstan,natural_gas,2019,29.7684,6412.7,0.428538069
+687,Kyrgyzstan,petroleum_n_other_liquids,2019,29.7684,6412.7,5.477868
+688,Kyrgyzstan,nuclear,2019,29.7684,6412.7,0.0
+689,Kyrgyzstan,renewables_n_other,2019,29.7684,6412.7,0.0
+690,Laos,all_energy_types,2019,53.3016,7168.05,29.94530902
+691,Laos,coal,2019,53.3016,7168.05,26.41664734454518
+692,Laos,natural_gas,2019,53.3016,7168.05,0.0
+693,Laos,petroleum_n_other_liquids,2019,53.3016,7168.05,3.5286616758501044
+694,Laos,nuclear,2019,53.3016,7168.05,0.0
+695,Laos,renewables_n_other,2019,53.3016,7168.05,0.0
+696,Latvia,all_energy_types,2019,55.5939,1906.29,7.87244579
+697,Latvia,coal,2019,55.5939,1906.29,0.1726788810916238
+698,Latvia,natural_gas,2019,55.5939,1906.29,2.758339909
+699,Latvia,petroleum_n_other_liquids,2019,55.5939,1906.29,4.941427
+700,Latvia,nuclear,2019,55.5939,1906.29,0.0
+701,Latvia,renewables_n_other,2019,55.5939,1906.29,0.0
+702,Lebanon,all_energy_types,2019,92.4576,6823.42,25.478354557
+703,Lebanon,coal,2019,92.4576,6823.42,0.3903248119126653
+704,Lebanon,natural_gas,2019,92.4576,6823.42,0.0
+705,Lebanon,petroleum_n_other_liquids,2019,92.4576,6823.42,25.088029744993957
+706,Lebanon,nuclear,2019,92.4576,6823.42,0.0
+707,Lebanon,renewables_n_other,2019,92.4576,6823.42,0.0
+708,Lesotho,all_energy_types,2019,6.32009,2125.34,0.71763765
+709,Lesotho,coal,2019,6.32009,2125.34,0.0
+710,Lesotho,natural_gas,2019,6.32009,2125.34,0.0
+711,Lesotho,petroleum_n_other_liquids,2019,6.32009,2125.34,0.71763765
+712,Lesotho,nuclear,2019,6.32009,2125.34,0.0
+713,Lesotho,renewables_n_other,2019,6.32009,2125.34,0.0
+714,Liberia,all_energy_types,2019,5.60223,4940.59,1.34566552
+715,Liberia,coal,2019,5.60223,4940.59,0.0
+716,Liberia,natural_gas,2019,5.60223,4940.59,0.0
+717,Liberia,petroleum_n_other_liquids,2019,5.60223,4940.59,1.3456655200074452
+718,Liberia,nuclear,2019,5.60223,4940.59,0.0
+719,Liberia,renewables_n_other,2019,5.60223,4940.59,0.0
+720,Libya,all_energy_types,2019,84.2519,6774.43,39.866451985
+721,Libya,coal,2019,84.2519,6774.43,0.0
+722,Libya,natural_gas,2019,84.2519,6774.43,9.198622985
+723,Libya,petroleum_n_other_liquids,2019,84.2519,6774.43,30.667829
+724,Libya,nuclear,2019,84.2519,6774.43,0.0
+725,Libya,renewables_n_other,2019,84.2519,6774.43,0.0
+726,Lithuania,all_energy_types,2019,97.4069,2794.09,14.25507877
+727,Lithuania,coal,2019,97.4069,2794.09,0.70905737164209
+728,Lithuania,natural_gas,2019,97.4069,2794.09,4.140781398
+729,Lithuania,petroleum_n_other_liquids,2019,97.4069,2794.09,9.40524
+730,Lithuania,nuclear,2019,97.4069,2794.09,0.0
+731,Lithuania,renewables_n_other,2019,97.4069,2794.09,0.0
+732,Luxembourg,all_energy_types,2019,66.2214,621.528,11.169565111
+733,Luxembourg,coal,2019,66.2214,621.528,0.1477027646441629
+734,Luxembourg,natural_gas,2019,66.2214,621.528,1.597030346
+735,Luxembourg,petroleum_n_other_liquids,2019,66.2214,621.528,9.424832
+736,Luxembourg,nuclear,2019,66.2214,621.528,0.0
+737,Luxembourg,renewables_n_other,2019,66.2214,621.528,0.0
+738,Macau,all_energy_types,2019,79.3202,640.421,2.013405144
+739,Macau,coal,2019,79.3202,640.421,0.0
+740,Macau,natural_gas,2019,79.3202,640.421,0.18521662
+741,Macau,petroleum_n_other_liquids,2019,79.3202,640.421,1.8281885235548687
+742,Macau,nuclear,2019,79.3202,640.421,0.0
+743,Macau,renewables_n_other,2019,79.3202,640.421,0.0
+744,Madagascar,all_energy_types,2019,43.6525,26984.2,3.391414709
+745,Madagascar,coal,2019,43.6525,26984.2,0.9184518037373882
+746,Madagascar,natural_gas,2019,43.6525,26984.2,0.0
+747,Madagascar,petroleum_n_other_liquids,2019,43.6525,26984.2,2.4729629048815838
+748,Madagascar,nuclear,2019,43.6525,26984.2,0.0
+749,Madagascar,renewables_n_other,2019,43.6525,26984.2,0.0
+750,Malawi,all_energy_types,2019,28.3955,18643.4,1.508163994
+751,Malawi,coal,2019,28.3955,18643.4,0.2033367363641493
+752,Malawi,natural_gas,2019,28.3955,18643.4,0.0
+753,Malawi,petroleum_n_other_liquids,2019,28.3955,18643.4,1.3048272580085305
+754,Malawi,nuclear,2019,28.3955,18643.4,0.0
+755,Malawi,renewables_n_other,2019,28.3955,18643.4,0.0
+756,Malaysia,all_energy_types,2019,908.76,32005.27,247.428983914
+757,Malaysia,coal,2019,908.76,32005.27,77.55296356080066
+758,Malaysia,natural_gas,2019,908.76,32005.27,75.355212353
+759,Malaysia,petroleum_n_other_liquids,2019,908.76,32005.27,94.520808
+760,Malaysia,nuclear,2019,908.76,32005.27,0.0
+761,Malaysia,renewables_n_other,2019,908.76,32005.27,0.0
+762,Maldives,all_energy_types,2019,10.0602,525.827,2.036072914
+763,Maldives,coal,2019,10.0602,525.827,0.0
+764,Maldives,natural_gas,2019,10.0602,525.827,0.0
+765,Maldives,petroleum_n_other_liquids,2019,10.0602,525.827,2.036072914
+766,Maldives,nuclear,2019,10.0602,525.827,0.0
+767,Maldives,renewables_n_other,2019,10.0602,525.827,0.0
+768,Mali,all_energy_types,2019,43.3564,19671.4,5.257908981
+769,Mali,coal,2019,43.3564,19671.4,0.0
+770,Mali,natural_gas,2019,43.3564,19671.4,0.0
+771,Mali,petroleum_n_other_liquids,2019,43.3564,19671.4,5.2579089810803135
+772,Mali,nuclear,2019,43.3564,19671.4,0.0
+773,Mali,renewables_n_other,2019,43.3564,19671.4,0.0
+774,Malta,all_energy_types,2019,21.5613,514.564,9.191731982
+775,Malta,coal,2019,21.5613,514.564,8.236377060051924e-07
+776,Malta,natural_gas,2019,21.5613,514.564,0.659758158
+777,Malta,petroleum_n_other_liquids,2019,21.5613,514.564,8.531973
+778,Malta,nuclear,2019,21.5613,514.564,0.0
+779,Malta,renewables_n_other,2019,21.5613,514.564,0.0
+780,Martinique,all_energy_types,2019,7.25285,375.492,2.24158345
+781,Martinique,coal,2019,7.25285,375.492,0.0
+782,Martinique,natural_gas,2019,7.25285,375.492,0.0
+783,Martinique,petroleum_n_other_liquids,2019,7.25285,375.492,2.2415834500000003
+784,Martinique,nuclear,2019,7.25285,375.492,0.0
+785,Martinique,renewables_n_other,2019,7.25285,375.492,0.0
+786,Mauritania,all_energy_types,2019,19.2667,4528.99,3.87875476
+787,Mauritania,coal,2019,19.2667,4528.99,0.0
+788,Mauritania,natural_gas,2019,19.2667,4528.99,0.0
+789,Mauritania,petroleum_n_other_liquids,2019,19.2667,4528.99,3.87875476
+790,Mauritania,nuclear,2019,19.2667,4528.99,0.0
+791,Mauritania,renewables_n_other,2019,19.2667,4528.99,0.0
+792,Mauritius,all_energy_types,2019,27.95627,1269.345,6.938191586
+793,Mauritius,coal,2019,27.95627,1269.345,1.7342405857186094
+794,Mauritius,natural_gas,2019,27.95627,1269.345,0.0
+795,Mauritius,petroleum_n_other_liquids,2019,27.95627,1269.345,5.203951
+796,Mauritius,nuclear,2019,27.95627,1269.345,0.0
+797,Mauritius,renewables_n_other,2019,27.95627,1269.345,0.0
+798,Mexico,all_energy_types,2019,2384.142,127745.8,456.148338455
+799,Mexico,coal,2019,2384.142,127745.8,45.10950814993316
+800,Mexico,natural_gas,2019,2384.142,127745.8,154.494922077
+801,Mexico,petroleum_n_other_liquids,2019,2384.142,127745.8,256.543908228
+802,Mexico,nuclear,2019,2384.142,127745.8,0.0
+803,Mexico,renewables_n_other,2019,2384.142,127745.8,0.0
+804,Micronesia,all_energy_types,2019,,,0.18151256
+805,Micronesia,coal,2019,,,0.0
+806,Micronesia,natural_gas,2019,,,0.0
+807,Micronesia,petroleum_n_other_liquids,2019,,,0.18151256
+808,Micronesia,nuclear,2019,,,0.0
+809,Micronesia,renewables_n_other,2019,,,0.0
+810,Moldova,all_energy_types,2019,30.9415,3542.7,7.975804163
+811,Moldova,coal,2019,30.9415,3542.7,0.3313762468016131
+812,Moldova,natural_gas,2019,30.9415,3542.7,4.666478916
+813,Moldova,petroleum_n_other_liquids,2019,30.9415,3542.7,2.977949
+814,Moldova,nuclear,2019,30.9415,3542.7,0.0
+815,Moldova,renewables_n_other,2019,30.9415,3542.7,0.0
+816,Mongolia,all_energy_types,2019,39.254,3223.46,20.901836824
+817,Mongolia,coal,2019,39.254,3223.46,16.690452823824575
+818,Mongolia,natural_gas,2019,39.254,3223.46,0.0
+819,Mongolia,petroleum_n_other_liquids,2019,39.254,3223.46,4.211384
+820,Mongolia,nuclear,2019,39.254,3223.46,0.0
+821,Mongolia,renewables_n_other,2019,39.254,3223.46,0.0
+822,Montenegro,all_energy_types,2019,11.9806,627.896,2.524134994
+823,Montenegro,coal,2019,11.9806,627.896,1.402951993740879
+824,Montenegro,natural_gas,2019,11.9806,627.896,0.0
+825,Montenegro,petroleum_n_other_liquids,2019,11.9806,627.896,1.121183
+826,Montenegro,nuclear,2019,11.9806,627.896,0.0
+827,Montenegro,renewables_n_other,2019,11.9806,627.896,0.0
+828,Montserrat,all_energy_types,2019,,,0.033486782
+829,Montserrat,coal,2019,,,0.0
+830,Montserrat,natural_gas,2019,,,0.0
+831,Montserrat,petroleum_n_other_liquids,2019,,,0.0334867815780919
+832,Montserrat,nuclear,2019,,,0.0
+833,Montserrat,renewables_n_other,2019,,,0.0
+834,Morocco,all_energy_types,2019,275.648,36467.5,59.02569629
+835,Morocco,coal,2019,275.648,36467.5,17.33004367753509
+836,Morocco,natural_gas,2019,275.648,36467.5,2.213949612
+837,Morocco,petroleum_n_other_liquids,2019,275.648,36467.5,39.481703
+838,Morocco,nuclear,2019,275.648,36467.5,0.0
+839,Morocco,renewables_n_other,2019,275.648,36467.5,0.0
+840,Mozambique,all_energy_types,2019,38.10749,30386.6,7.785808405
+841,Mozambique,coal,2019,38.10749,30386.6,0.0931785185368545
+842,Mozambique,natural_gas,2019,38.10749,30386.6,2.491483886
+843,Mozambique,petroleum_n_other_liquids,2019,38.10749,30386.6,5.201146
+844,Mozambique,nuclear,2019,38.10749,30386.6,0.0
+845,Mozambique,renewables_n_other,2019,38.10749,30386.6,0.0
+846,Namibia,all_energy_types,2019,24.41,2494.82,3.90852628
+847,Namibia,coal,2019,24.41,2494.82,0.0483238519300902
+848,Namibia,natural_gas,2019,24.41,2494.82,0.0
+849,Namibia,petroleum_n_other_liquids,2019,24.41,2494.82,3.86020242796824
+850,Namibia,nuclear,2019,24.41,2494.82,0.0
+851,Namibia,renewables_n_other,2019,24.41,2494.82,0.0
+852,Nauru,all_energy_types,2019,,,0.083366555
+853,Nauru,coal,2019,,,0.0
+854,Nauru,natural_gas,2019,,,0.0
+855,Nauru,petroleum_n_other_liquids,2019,,,0.0833665549856013
+856,Nauru,nuclear,2019,,,0.0
+857,Nauru,renewables_n_other,2019,,,0.0
+858,Nepal,all_energy_types,2019,101.266,28635.4,8.30706762
+859,Nepal,coal,2019,101.266,28635.4,0.7021875300436488
+860,Nepal,natural_gas,2019,101.266,28635.4,0.0
+861,Nepal,petroleum_n_other_liquids,2019,101.266,28635.4,7.604880089467184
+862,Nepal,nuclear,2019,101.266,28635.4,0.0
+863,Nepal,renewables_n_other,2019,101.266,28635.4,0.0
+864,Netherlands,all_energy_types,2019,934.921,17360.55,216.830355385
+865,Netherlands,coal,2019,934.921,17360.55,29.702262541333504
+866,Netherlands,natural_gas,2019,934.921,17360.55,71.129814844
+867,Netherlands,petroleum_n_other_liquids,2019,934.921,17360.55,115.998278
+868,Netherlands,nuclear,2019,934.921,17360.55,0.0
+869,Netherlands,renewables_n_other,2019,934.921,17360.55,0.0
+870,Netherlands Antilles,all_energy_types,2019,2.80876,163.395,14.496783
+871,Netherlands Antilles,coal,2019,2.80876,163.395,0.0
+872,Netherlands Antilles,natural_gas,2019,2.80876,163.395,0.0
+873,Netherlands Antilles,petroleum_n_other_liquids,2019,2.80876,163.395,14.496783
+874,Netherlands Antilles,nuclear,2019,2.80876,163.395,0.0
+875,Netherlands Antilles,renewables_n_other,2019,2.80876,163.395,0.0
+876,New Caledonia,all_energy_types,2019,,,6.032140267
+877,New Caledonia,coal,2019,,,3.014340136678955
+878,New Caledonia,natural_gas,2019,,,0.0
+879,New Caledonia,petroleum_n_other_liquids,2019,,,3.01780013
+880,New Caledonia,nuclear,2019,,,0.0
+881,New Caledonia,renewables_n_other,2019,,,0.0
+882,New Zealand,all_energy_types,2019,198.6641,4956.083,38.962262785
+883,New Zealand,coal,2019,198.6641,4956.083,4.7132209239777145
+884,New Zealand,natural_gas,2019,198.6641,4956.083,8.796149861
+885,New Zealand,petroleum_n_other_liquids,2019,198.6641,4956.083,25.452892
+886,New Zealand,nuclear,2019,198.6641,4956.083,0.0
+887,New Zealand,renewables_n_other,2019,198.6641,4956.083,0.0
+888,Nicaragua,all_energy_types,2019,33.5562,6544.65,5.027809
+889,Nicaragua,coal,2019,33.5562,6544.65,0.0
+890,Nicaragua,natural_gas,2019,33.5562,6544.65,0.0
+891,Nicaragua,petroleum_n_other_liquids,2019,33.5562,6544.65,5.027809
+892,Nicaragua,nuclear,2019,33.5562,6544.65,0.0
+893,Nicaragua,renewables_n_other,2019,33.5562,6544.65,0.0
+894,Niger,all_energy_types,2019,28.87,23338.6,2.276804081
+895,Niger,coal,2019,28.87,23338.6,0.4946310805334418
+896,Niger,natural_gas,2019,28.87,23338.6,0.0
+897,Niger,petroleum_n_other_liquids,2019,28.87,23338.6,1.782173
+898,Niger,nuclear,2019,28.87,23338.6,0.0
+899,Niger,renewables_n_other,2019,28.87,23338.6,0.0
+900,Nigeria,all_energy_types,2019,1015.889,201050.8,101.193925365
+901,Nigeria,coal,2019,1015.889,201050.8,0.2314297576308552
+902,Nigeria,natural_gas,2019,1015.889,201050.8,36.354922607
+903,Nigeria,petroleum_n_other_liquids,2019,1015.889,201050.8,64.607573
+904,Nigeria,nuclear,2019,1015.889,201050.8,0.0
+905,Nigeria,renewables_n_other,2019,1015.889,201050.8,0.0
+906,Niue,all_energy_types,2019,,,0.007517555
+907,Niue,coal,2019,,,0.0
+908,Niue,natural_gas,2019,,,0.0
+909,Niue,petroleum_n_other_liquids,2019,,,0.0075175550100217
+910,Niue,nuclear,2019,,,0.0
+911,Niue,renewables_n_other,2019,,,0.0
+912,North Korea,all_energy_types,2019,43.1394,25662.5,20.153995305
+913,North Korea,coal,2019,43.1394,25662.5,17.192669625953016
+914,North Korea,natural_gas,2019,43.1394,25662.5,0.0
+915,North Korea,petroleum_n_other_liquids,2019,43.1394,25662.5,2.961325678647297
+916,North Korea,nuclear,2019,43.1394,25662.5,0.0
+917,North Korea,renewables_n_other,2019,43.1394,25662.5,0.0
+918,North Macedonia,all_energy_types,2019,31.7368,2082.92,6.539300393
+919,North Macedonia,coal,2019,31.7368,2082.92,3.180663196231058
+920,North Macedonia,natural_gas,2019,31.7368,2082.92,0.34630584
+921,North Macedonia,petroleum_n_other_liquids,2019,31.7368,2082.92,3.012331357
+922,North Macedonia,nuclear,2019,31.7368,2082.92,0.0
+923,North Macedonia,renewables_n_other,2019,31.7368,2082.92,0.0
+924,Northern Mariana Islands,all_energy_types,2019,,57.216,0.0
+925,Northern Mariana Islands,coal,2019,,57.216,0.0
+926,Northern Mariana Islands,natural_gas,2019,,57.216,0.0
+927,Northern Mariana Islands,petroleum_n_other_liquids,2019,,57.216,
+928,Northern Mariana Islands,nuclear,2019,,57.216,0.0
+929,Northern Mariana Islands,renewables_n_other,2019,,57.216,0.0
+930,Norway,all_energy_types,2019,330.2825,5352.817,38.055784902
+931,Norway,coal,2019,330.2825,5352.817,3.362758079201537
+932,Norway,natural_gas,2019,330.2825,5352.817,8.118021891
+933,Norway,petroleum_n_other_liquids,2019,330.2825,5352.817,26.575004932
+934,Norway,nuclear,2019,330.2825,5352.817,0.0
+935,Norway,renewables_n_other,2019,330.2825,5352.817,0.0
+936,Oman,all_energy_types,2019,141.208,4618.0,75.869640578
+937,Oman,coal,2019,141.208,4618.0,0.1105483243284987
+938,Oman,natural_gas,2019,141.208,4618.0,45.679182254
+939,Oman,petroleum_n_other_liquids,2019,141.208,4618.0,30.07991
+940,Oman,nuclear,2019,141.208,4618.0,0.0
+941,Oman,renewables_n_other,2019,141.208,4618.0,0.0
+942,Pakistan,all_energy_types,2019,1039.88,216564.0,192.896993866
+943,Pakistan,coal,2019,1039.88,216564.0,47.099296799375374
+944,Pakistan,natural_gas,2019,1039.88,216564.0,76.977575127
+945,Pakistan,petroleum_n_other_liquids,2019,1039.88,216564.0,68.82012194
+946,Pakistan,nuclear,2019,1039.88,216564.0,0.0
+947,Pakistan,renewables_n_other,2019,1039.88,216564.0,0.0
+948,Palestinian Territories,all_energy_types,2019,14.0824,4986.96,3.277635491
+949,Palestinian Territories,coal,2019,14.0824,4986.96,0.0
+950,Palestinian Territories,natural_gas,2019,14.0824,4986.96,0.0
+951,Palestinian Territories,petroleum_n_other_liquids,2019,14.0824,4986.96,3.27763549068559
+952,Palestinian Territories,nuclear,2019,14.0824,4986.96,0.0
+953,Palestinian Territories,renewables_n_other,2019,14.0824,4986.96,0.0
+954,Panama,all_energy_types,2019,118.865,4245.43,26.79318633
+955,Panama,coal,2019,118.865,4245.43,1.4131801684158436
+956,Panama,natural_gas,2019,118.865,4245.43,0.374444242
+957,Panama,petroleum_n_other_liquids,2019,118.865,4245.43,25.00556192
+958,Panama,nuclear,2019,118.865,4245.43,0.0
+959,Panama,renewables_n_other,2019,118.865,4245.43,0.0
+960,Papua New Guinea,all_energy_types,2019,32.4518,8777.36,6.323287075
+961,Papua New Guinea,coal,2019,32.4518,8777.36,0.0
+962,Papua New Guinea,natural_gas,2019,32.4518,8777.36,0.465179361
+963,Papua New Guinea,petroleum_n_other_liquids,2019,32.4518,8777.36,5.858107714200188
+964,Papua New Guinea,nuclear,2019,32.4518,8777.36,0.0
+965,Papua New Guinea,renewables_n_other,2019,32.4518,8777.36,0.0
+966,Paraguay,all_energy_types,2019,86.3046,7044.04,8.338166715
+967,Paraguay,coal,2019,86.3046,7044.04,0.0106487149162364
+968,Paraguay,natural_gas,2019,86.3046,7044.04,0.0
+969,Paraguay,petroleum_n_other_liquids,2019,86.3046,7044.04,8.327518
+970,Paraguay,nuclear,2019,86.3046,7044.04,0.0
+971,Paraguay,renewables_n_other,2019,86.3046,7044.04,0.0
+972,Peru,all_energy_types,2019,402.28,32462.7,52.918496178
+973,Peru,coal,2019,402.28,32462.7,1.0448633855551002
+974,Peru,natural_gas,2019,402.28,32462.7,17.188285792
+975,Peru,petroleum_n_other_liquids,2019,402.28,32462.7,34.685347
+976,Peru,nuclear,2019,402.28,32462.7,0.0
+977,Peru,renewables_n_other,2019,402.28,32462.7,0.0
+978,Philippines,all_energy_types,2019,949.711,108296.2,135.216311732
+979,Philippines,coal,2019,949.711,108296.2,65.92022534700124
+980,Philippines,natural_gas,2019,949.711,108296.2,6.800041385
+981,Philippines,petroleum_n_other_liquids,2019,949.711,108296.2,62.496045
+982,Philippines,nuclear,2019,949.711,108296.2,0.0
+983,Philippines,renewables_n_other,2019,949.711,108296.2,0.0
+984,Poland,all_energy_types,2019,1217.987,37963.62,319.670314026
+985,Poland,coal,2019,1217.987,37963.62,195.52267672258264
+986,Poland,natural_gas,2019,1217.987,37963.62,36.313635303
+987,Poland,petroleum_n_other_liquids,2019,1217.987,37963.62,87.834002
+988,Poland,nuclear,2019,1217.987,37963.62,0.0
+989,Poland,renewables_n_other,2019,1217.987,37963.62,0.0
+990,Portugal,all_energy_types,2019,342.6999,10288.67,53.518320981
+991,Portugal,coal,2019,342.6999,10288.67,10.501605883898035
+992,Portugal,natural_gas,2019,342.6999,10288.67,11.496504097
+993,Portugal,petroleum_n_other_liquids,2019,342.6999,10288.67,31.520211
+994,Portugal,nuclear,2019,342.6999,10288.67,0.0
+995,Portugal,renewables_n_other,2019,342.6999,10288.67,0.0
+996,Puerto Rico,all_energy_types,2019,66.9118,2961.78,20.150917372
+997,Puerto Rico,coal,2019,66.9118,2961.78,2.71006356325366
+998,Puerto Rico,natural_gas,2019,66.9118,2961.78,3.347951007
+999,Puerto Rico,petroleum_n_other_liquids,2019,66.9118,2961.78,14.09290280159178
+1000,Puerto Rico,nuclear,2019,66.9118,2961.78,0.0
+1001,Puerto Rico,renewables_n_other,2019,66.9118,2961.78,0.0
+1002,Qatar,all_energy_types,2019,247.046,2828.95,105.34120271
+1003,Qatar,coal,2019,247.046,2828.95,0.0
+1004,Qatar,natural_gas,2019,247.046,2828.95,77.224661806
+1005,Qatar,petroleum_n_other_liquids,2019,247.046,2828.95,28.116540904
+1006,Qatar,nuclear,2019,247.046,2828.95,0.0
+1007,Qatar,renewables_n_other,2019,247.046,2828.95,0.0
+1008,Reunion,all_energy_types,2019,24.8272,888.916,2.722415119
+1009,Reunion,coal,2019,24.8272,888.916,0.0
+1010,Reunion,natural_gas,2019,24.8272,888.916,0.0
+1011,Reunion,petroleum_n_other_liquids,2019,24.8272,888.916,2.722415119
+1012,Reunion,nuclear,2019,24.8272,888.916,0.0
+1013,Reunion,renewables_n_other,2019,24.8272,888.916,0.0
+1014,Romania,all_energy_types,2019,522.905,19360.95,73.684118621
+1015,Romania,coal,2019,522.905,19360.95,22.71313219062557
+1016,Romania,natural_gas,2019,522.905,19360.95,21.29000143
+1017,Romania,petroleum_n_other_liquids,2019,522.905,19360.95,29.680985
+1018,Romania,nuclear,2019,522.905,19360.95,0.0
+1019,Romania,renewables_n_other,2019,522.905,19360.95,0.0
+1020,Russia,all_energy_types,2019,3770.42,145876.3,1798.242238512
+1021,Russia,coal,2019,3770.42,145876.3,445.8627903107092
+1022,Russia,natural_gas,2019,3770.42,145876.3,943.331800861
+1023,Russia,petroleum_n_other_liquids,2019,3770.42,145876.3,409.04764734
+1024,Russia,nuclear,2019,3770.42,145876.3,0.0
+1025,Russia,renewables_n_other,2019,3770.42,145876.3,0.0
+1026,Rwanda,all_energy_types,2019,27.008,12628.5,1.10937668
+1027,Rwanda,coal,2019,27.008,12628.5,0.0
+1028,Rwanda,natural_gas,2019,27.008,12628.5,0.0
+1029,Rwanda,petroleum_n_other_liquids,2019,27.008,12628.5,1.1093766800042737
+1030,Rwanda,nuclear,2019,27.008,12628.5,0.0
+1031,Rwanda,renewables_n_other,2019,27.008,12628.5,0.0
+1032,Saint Helena,all_energy_types,2019,,,0.0098209
+1033,Saint Helena,coal,2019,,,0.0
+1034,Saint Helena,natural_gas,2019,,,0.0
+1035,Saint Helena,petroleum_n_other_liquids,2019,,,0.009820899999546
+1036,Saint Helena,nuclear,2019,,,0.0
+1037,Saint Helena,renewables_n_other,2019,,,0.0
+1038,Saint Kitts and Nevis,all_energy_types,2019,1.36317,52.7944,0.268462136
+1039,Saint Kitts and Nevis,coal,2019,1.36317,52.7944,0.0
+1040,Saint Kitts and Nevis,natural_gas,2019,1.36317,52.7944,0.0
+1041,Saint Kitts and Nevis,petroleum_n_other_liquids,2019,1.36317,52.7944,0.2684621361898355
+1042,Saint Kitts and Nevis,nuclear,2019,1.36317,52.7944,0.0
+1043,Saint Kitts and Nevis,renewables_n_other,2019,1.36317,52.7944,0.0
+1044,Saint Lucia,all_energy_types,2019,2.71244,182.738,0.451661075
+1045,Saint Lucia,coal,2019,2.71244,182.738,0.0
+1046,Saint Lucia,natural_gas,2019,2.71244,182.738,0.0
+1047,Saint Lucia,petroleum_n_other_liquids,2019,2.71244,182.738,0.4516610747647052
+1048,Saint Lucia,nuclear,2019,2.71244,182.738,0.0
+1049,Saint Lucia,renewables_n_other,2019,2.71244,182.738,0.0
+1050,Saint Pierre and Miquelon,all_energy_types,2019,,,0.0988793
+1051,Saint Pierre and Miquelon,coal,2019,,,0.0
+1052,Saint Pierre and Miquelon,natural_gas,2019,,,0.0
+1053,Saint Pierre and Miquelon,petroleum_n_other_liquids,2019,,,0.0988793
+1054,Saint Pierre and Miquelon,nuclear,2019,,,0.0
+1055,Saint Pierre and Miquelon,renewables_n_other,2019,,,0.0
+1056,Saint Vincent/Grenadines,all_energy_types,2019,1.34094,110.573,0.2392802
+1057,Saint Vincent/Grenadines,coal,2019,1.34094,110.573,0.0
+1058,Saint Vincent/Grenadines,natural_gas,2019,1.34094,110.573,0.0
+1059,Saint Vincent/Grenadines,petroleum_n_other_liquids,2019,1.34094,110.573,0.2392801999911366
+1060,Saint Vincent/Grenadines,nuclear,2019,1.34094,110.573,0.0
+1061,Saint Vincent/Grenadines,renewables_n_other,2019,1.34094,110.573,0.0
+1062,Samoa,all_energy_types,2019,1.09107,197.43,0.324490111
+1063,Samoa,coal,2019,1.09107,197.43,0.0
+1064,Samoa,natural_gas,2019,1.09107,197.43,0.0
+1065,Samoa,petroleum_n_other_liquids,2019,1.09107,197.43,0.3244901105429874
+1066,Samoa,nuclear,2019,1.09107,197.43,0.0
+1067,Samoa,renewables_n_other,2019,1.09107,197.43,0.0
+1068,Sao Tome and Principe,all_energy_types,2019,1.06389,215.136,0.158288716
+1069,Sao Tome and Principe,coal,2019,1.06389,215.136,0.0
+1070,Sao Tome and Principe,natural_gas,2019,1.06389,215.136,0.0
+1071,Sao Tome and Principe,petroleum_n_other_liquids,2019,1.06389,215.136,0.1582887158998238
+1072,Sao Tome and Principe,nuclear,2019,1.06389,215.136,0.0
+1073,Sao Tome and Principe,renewables_n_other,2019,1.06389,215.136,0.0
+1074,Saudi Arabia,all_energy_types,2019,1771.04,34218.0,567.98859898
+1075,Saudi Arabia,coal,2019,1771.04,34218.0,0.2386119788459438
+1076,Saudi Arabia,natural_gas,2019,1771.04,34218.0,218.205110697
+1077,Saudi Arabia,petroleum_n_other_liquids,2019,1771.04,34218.0,349.544876304
+1078,Saudi Arabia,nuclear,2019,1771.04,34218.0,0.0
+1079,Saudi Arabia,renewables_n_other,2019,1771.04,34218.0,0.0
+1080,Senegal,all_energy_types,2019,54.8701,16302.4,9.558694385
+1081,Senegal,coal,2019,54.8701,16302.4,1.5419701843146978
+1082,Senegal,natural_gas,2019,54.8701,16302.4,0.101067201
+1083,Senegal,petroleum_n_other_liquids,2019,54.8701,16302.4,7.915657
+1084,Senegal,nuclear,2019,54.8701,16302.4,0.0
+1085,Senegal,renewables_n_other,2019,54.8701,16302.4,0.0
+1086,Serbia,all_energy_types,2019,121.686,6945.23,47.041072192
+1087,Serbia,coal,2019,121.686,6945.23,32.49034563353357
+1088,Serbia,natural_gas,2019,121.686,6945.23,5.105643209
+1089,Serbia,petroleum_n_other_liquids,2019,121.686,6945.23,9.445083349
+1090,Serbia,nuclear,2019,121.686,6945.23,0.0
+1091,Serbia,renewables_n_other,2019,121.686,6945.23,0.0
+1092,Seychelles,all_energy_types,2019,2.532797,97.69933,1.1521043
+1093,Seychelles,coal,2019,2.532797,97.69933,0.0
+1094,Seychelles,natural_gas,2019,2.532797,97.69933,0.0
+1095,Seychelles,petroleum_n_other_liquids,2019,2.532797,97.69933,1.1521043
+1096,Seychelles,nuclear,2019,2.532797,97.69933,0.0
+1097,Seychelles,renewables_n_other,2019,2.532797,97.69933,0.0
+1098,Sierra Leone,all_energy_types,2019,13.8469,7814.13,0.985050284
+1099,Sierra Leone,coal,2019,13.8469,7814.13,0.0
+1100,Sierra Leone,natural_gas,2019,13.8469,7814.13,0.0
+1101,Sierra Leone,petroleum_n_other_liquids,2019,13.8469,7814.13,0.9850502844728914
+1102,Sierra Leone,nuclear,2019,13.8469,7814.13,0.0
+1103,Sierra Leone,renewables_n_other,2019,13.8469,7814.13,0.0
+1104,Singapore,all_energy_types,2019,545.403,5696.185,244.056494874
+1105,Singapore,coal,2019,545.403,5696.185,1.665390565642941
+1106,Singapore,natural_gas,2019,545.403,5696.185,25.627048182
+1107,Singapore,petroleum_n_other_liquids,2019,545.403,5696.185,216.764056126646
+1108,Singapore,nuclear,2019,545.403,5696.185,0.0
+1109,Singapore,renewables_n_other,2019,545.403,5696.185,0.0
+1110,Slovakia,all_energy_types,2019,181.3875,5455.077,34.50052687
+1111,Slovakia,coal,2019,181.3875,5455.077,13.297246842131209
+1112,Slovakia,natural_gas,2019,181.3875,5455.077,9.040476028
+1113,Slovakia,petroleum_n_other_liquids,2019,181.3875,5455.077,12.162804
+1114,Slovakia,nuclear,2019,181.3875,5455.077,0.0
+1115,Slovakia,renewables_n_other,2019,181.3875,5455.077,0.0
+1116,Slovenia,all_energy_types,2019,76.4882,2095.86,14.248656405
+1117,Slovenia,coal,2019,76.4882,2095.86,4.317481899148978
+1118,Slovenia,natural_gas,2019,76.4882,2095.86,1.694971506
+1119,Slovenia,petroleum_n_other_liquids,2019,76.4882,2095.86,8.236203
+1120,Slovenia,nuclear,2019,76.4882,2095.86,0.0
+1121,Slovenia,renewables_n_other,2019,76.4882,2095.86,0.0
+1122,Solomon Islands,all_energy_types,2019,1.54738,669.929,0.338062091
+1123,Solomon Islands,coal,2019,1.54738,669.929,0.0
+1124,Solomon Islands,natural_gas,2019,1.54738,669.929,0.0
+1125,Solomon Islands,petroleum_n_other_liquids,2019,1.54738,669.929,0.3380620909203513
+1126,Solomon Islands,nuclear,2019,1.54738,669.929,0.0
+1127,Solomon Islands,renewables_n_other,2019,1.54738,669.929,0.0
+1128,Somalia,all_energy_types,2019,10.8476,15474.0,0.882390681
+1129,Somalia,coal,2019,10.8476,15474.0,0.0
+1130,Somalia,natural_gas,2019,10.8476,15474.0,0.0
+1131,Somalia,petroleum_n_other_liquids,2019,10.8476,15474.0,0.882390681094457
+1132,Somalia,nuclear,2019,10.8476,15474.0,0.0
+1133,Somalia,renewables_n_other,2019,10.8476,15474.0,0.0
+1134,South Africa,all_energy_types,2019,785.223,58650.23,455.448598942
+1135,South Africa,coal,2019,785.223,58650.23,351.91764878337904
+1136,South Africa,natural_gas,2019,785.223,58650.23,9.376074159
+1137,South Africa,petroleum_n_other_liquids,2019,785.223,58650.23,94.154876
+1138,South Africa,nuclear,2019,785.223,58650.23,0.0
+1139,South Africa,renewables_n_other,2019,785.223,58650.23,0.0
+1140,South Korea,all_energy_types,2019,2160.64,51224.18,702.961082317
+1141,South Korea,coal,2019,2160.64,51224.18,332.9107685796754
+1142,South Korea,natural_gas,2019,2160.64,51224.18,115.728074737
+1143,South Korea,petroleum_n_other_liquids,2019,2160.64,51224.18,254.322239
+1144,South Korea,nuclear,2019,2160.64,51224.18,0.0
+1145,South Korea,renewables_n_other,2019,2160.64,51224.18,0.0
+1146,South Sudan,all_energy_types,2019,17.3349,11062.1,1.675889
+1147,South Sudan,coal,2019,17.3349,11062.1,0.0
+1148,South Sudan,natural_gas,2019,17.3349,11062.1,0.0
+1149,South Sudan,petroleum_n_other_liquids,2019,17.3349,11062.1,1.675889
+1150,South Sudan,nuclear,2019,17.3349,11062.1,0.0
+1151,South Sudan,renewables_n_other,2019,17.3349,11062.1,0.0
+1152,Spain,all_energy_types,2019,1796.293,47184.25,293.779473717
+1153,Spain,coal,2019,1796.293,47184.25,37.46424391708619
+1154,Spain,natural_gas,2019,1796.293,47184.25,63.4764628
+1155,Spain,petroleum_n_other_liquids,2019,1796.293,47184.25,192.838767
+1156,Spain,nuclear,2019,1796.293,47184.25,0.0
+1157,Spain,renewables_n_other,2019,1796.293,47184.25,0.0
+1158,Sri Lanka,all_energy_types,2019,276.987,21318.2,22.809417184
+1159,Sri Lanka,coal,2019,276.987,21318.2,5.081500183952531
+1160,Sri Lanka,natural_gas,2019,276.987,21318.2,0.0
+1161,Sri Lanka,petroleum_n_other_liquids,2019,276.987,21318.2,17.727917
+1162,Sri Lanka,nuclear,2019,276.987,21318.2,0.0
+1163,Sri Lanka,renewables_n_other,2019,276.987,21318.2,0.0
+1164,Sudan,all_energy_types,2019,187.629,42837.3,18.36376
+1165,Sudan,coal,2019,187.629,42837.3,0.0
+1166,Sudan,natural_gas,2019,187.629,42837.3,0.0
+1167,Sudan,petroleum_n_other_liquids,2019,187.629,42837.3,18.36376
+1168,Sudan,nuclear,2019,187.629,42837.3,0.0
+1169,Sudan,renewables_n_other,2019,187.629,42837.3,0.0
+1170,Suriname,all_energy_types,2019,9.20889,581.256,2.314032735
+1171,Suriname,coal,2019,9.20889,581.256,0.0
+1172,Suriname,natural_gas,2019,9.20889,581.256,0.010912857
+1173,Suriname,petroleum_n_other_liquids,2019,9.20889,581.256,2.303119877981311
+1174,Suriname,nuclear,2019,9.20889,581.256,0.0
+1175,Suriname,renewables_n_other,2019,9.20889,581.256,0.0
+1176,Sweden,all_energy_types,2019,524.62,10291.05,47.079863482
+1177,Sweden,coal,2019,524.62,10291.05,6.988473287995864
+1178,Sweden,natural_gas,2019,524.62,10291.05,2.26717575
+1179,Sweden,petroleum_n_other_liquids,2019,524.62,10291.05,37.824214444
+1180,Sweden,nuclear,2019,524.62,10291.05,0.0
+1181,Sweden,renewables_n_other,2019,524.62,10291.05,0.0
+1182,Switzerland,all_energy_types,2019,590.958,8606.035,38.8391437
+1183,Switzerland,coal,2019,590.958,8606.035,0.3548905513154909
+1184,Switzerland,natural_gas,2019,590.958,8606.035,6.746269149
+1185,Switzerland,petroleum_n_other_liquids,2019,590.958,8606.035,31.737984
+1186,Switzerland,nuclear,2019,590.958,8606.035,0.0
+1187,Switzerland,renewables_n_other,2019,590.958,8606.035,0.0
+1188,Syria,all_energy_types,2019,53.6025,17365.7,30.957562784
+1189,Syria,coal,2019,53.6025,17365.7,0.0216289003042008
+1190,Syria,natural_gas,2019,53.6025,17365.7,7.219938884
+1191,Syria,petroleum_n_other_liquids,2019,53.6025,17365.7,23.715995
+1192,Syria,nuclear,2019,53.6025,17365.7,0.0
+1193,Syria,renewables_n_other,2019,53.6025,17365.7,0.0
+1194,Taiwan,all_energy_types,2019,1232.274,23597.12,283.193662206
+1195,Taiwan,coal,2019,1232.274,23597.12,147.3312615261277
+1196,Taiwan,natural_gas,2019,1232.274,23597.12,46.38740997
+1197,Taiwan,petroleum_n_other_liquids,2019,1232.274,23597.12,89.47499070945408
+1198,Taiwan,nuclear,2019,1232.274,23597.12,0.0
+1199,Taiwan,renewables_n_other,2019,1232.274,23597.12,0.0
+1200,Tajikistan,all_energy_types,2019,35.11,9318.52,6.870917512
+1201,Tajikistan,coal,2019,35.11,9318.52,4.101165580350681
+1202,Tajikistan,natural_gas,2019,35.11,9318.52,0.142651973
+1203,Tajikistan,petroleum_n_other_liquids,2019,35.11,9318.52,2.627099958508781
+1204,Tajikistan,nuclear,2019,35.11,9318.52,0.0
+1205,Tajikistan,renewables_n_other,2019,35.11,9318.52,0.0
+1206,Tanzania,all_energy_types,2019,153.3535,58042.93,11.481377071
+1207,Tanzania,coal,2019,153.3535,58042.93,1.1259584185587477
+1208,Tanzania,natural_gas,2019,153.3535,58042.93,2.495959652
+1209,Tanzania,petroleum_n_other_liquids,2019,153.3535,58042.93,7.859459
+1210,Tanzania,nuclear,2019,153.3535,58042.93,0.0
+1211,Tanzania,renewables_n_other,2019,153.3535,58042.93,0.0
+1212,Thailand,all_energy_types,2019,1248.417,69647.88,303.667169932
+1213,Thailand,coal,2019,1248.417,69647.88,57.11033646435439
+1214,Thailand,natural_gas,2019,1248.417,69647.88,98.415903868
+1215,Thailand,petroleum_n_other_liquids,2019,1248.417,69647.88,148.14092959941294
+1216,Thailand,nuclear,2019,1248.417,69647.88,0.0
+1217,Thailand,renewables_n_other,2019,1248.417,69647.88,0.0
+1218,The Bahamas,all_energy_types,2019,13.643,389.415,3.982675282
+1219,The Bahamas,coal,2019,13.643,389.415,0.0
+1220,The Bahamas,natural_gas,2019,13.643,389.415,0.006219387
+1221,The Bahamas,petroleum_n_other_liquids,2019,13.643,389.415,3.9764558947975375
+1222,The Bahamas,nuclear,2019,13.643,389.415,0.0
+1223,The Bahamas,renewables_n_other,2019,13.643,389.415,0.0
+1224,Timor-Leste,all_energy_types,2019,4.05685,1293.38,0.53420808
+1225,Timor-Leste,coal,2019,4.05685,1293.38,0.0
+1226,Timor-Leste,natural_gas,2019,4.05685,1293.38,0.0
+1227,Timor-Leste,petroleum_n_other_liquids,2019,4.05685,1293.38,0.5342080799977215
+1228,Timor-Leste,nuclear,2019,4.05685,1293.38,0.0
+1229,Timor-Leste,renewables_n_other,2019,4.05685,1293.38,0.0
+1230,Togo,all_energy_types,2019,16.8355,8085.32,2.255794107
+1231,Togo,coal,2019,16.8355,8085.32,0.5980782775686915
+1232,Togo,natural_gas,2019,16.8355,8085.32,0.087271829
+1233,Togo,petroleum_n_other_liquids,2019,16.8355,8085.32,1.5704440000000002
+1234,Togo,nuclear,2019,16.8355,8085.32,0.0
+1235,Togo,renewables_n_other,2019,16.8355,8085.32,0.0
+1236,Tonga,all_energy_types,2019,0.574064,104.465,0.150016259
+1237,Tonga,coal,2019,0.574064,104.465,0.0
+1238,Tonga,natural_gas,2019,0.574064,104.465,0.0
+1239,Tonga,petroleum_n_other_liquids,2019,0.574064,104.465,0.1500162591321692
+1240,Tonga,nuclear,2019,0.574064,104.465,0.0
+1241,Tonga,renewables_n_other,2019,0.574064,104.465,0.0
+1242,Trinidad and Tobago,all_energy_types,2019,33.9752,1394.35,40.485352133
+1243,Trinidad and Tobago,coal,2019,33.9752,1394.35,0.0062392396372031
+1244,Trinidad and Tobago,natural_gas,2019,33.9752,1394.35,34.511340893
+1245,Trinidad and Tobago,petroleum_n_other_liquids,2019,33.9752,1394.35,5.967772
+1246,Trinidad and Tobago,nuclear,2019,33.9752,1394.35,0.0
+1247,Trinidad and Tobago,renewables_n_other,2019,33.9752,1394.35,0.0
+1248,Tunisia,all_energy_types,2019,122.68,11690.2,25.326405225
+1249,Tunisia,coal,2019,122.68,11690.2,0.0125406681071263
+1250,Tunisia,natural_gas,2019,122.68,11690.2,10.551125557
+1251,Tunisia,petroleum_n_other_liquids,2019,122.68,11690.2,14.762739
+1252,Tunisia,nuclear,2019,122.68,11690.2,0.0
+1253,Tunisia,renewables_n_other,2019,122.68,11690.2,0.0
+1254,Turkey,all_energy_types,2019,2338.015,83524.67,397.800544326
+1255,Turkey,coal,2019,2338.015,83524.67,168.9163261181206
+1256,Turkey,natural_gas,2019,2338.015,83524.67,95.037428208
+1257,Turkey,petroleum_n_other_liquids,2019,2338.015,83524.67,133.84679
+1258,Turkey,nuclear,2019,2338.015,83524.67,0.0
+1259,Turkey,renewables_n_other,2019,2338.015,83524.67,0.0
+1260,Turkmenistan,all_energy_types,2019,110.936,5940.01,97.306322119
+1261,Turkmenistan,coal,2019,110.936,5940.01,0.0
+1262,Turkmenistan,natural_gas,2019,110.936,5940.01,77.126056119
+1263,Turkmenistan,petroleum_n_other_liquids,2019,110.936,5940.01,20.180266
+1264,Turkmenistan,nuclear,2019,110.936,5940.01,0.0
+1265,Turkmenistan,renewables_n_other,2019,110.936,5940.01,0.0
+1266,Turks and Caicos Islands,all_energy_types,2019,,,0.23745
+1267,Turks and Caicos Islands,coal,2019,,,0.0
+1268,Turks and Caicos Islands,natural_gas,2019,,,0.0
+1269,Turks and Caicos Islands,petroleum_n_other_liquids,2019,,,0.2374499999955439
+1270,Turks and Caicos Islands,nuclear,2019,,,0.0
+1271,Turks and Caicos Islands,renewables_n_other,2019,,,0.0
+1272,Tuvalu,all_energy_types,2019,,,0.0
+1273,Tuvalu,coal,2019,,,0.0
+1274,Tuvalu,natural_gas,2019,,,0.0
+1275,Tuvalu,petroleum_n_other_liquids,2019,,,
+1276,Tuvalu,nuclear,2019,,,0.0
+1277,Tuvalu,renewables_n_other,2019,,,0.0
+1278,U.S. Pacific Islands,all_energy_types,2019,,,0.301545627
+1279,U.S. Pacific Islands,coal,2019,,,0.0
+1280,U.S. Pacific Islands,natural_gas,2019,,,0.0
+1281,U.S. Pacific Islands,petroleum_n_other_liquids,2019,,,0.3015456273385353
+1282,U.S. Pacific Islands,nuclear,2019,,,0.0
+1283,U.S. Pacific Islands,renewables_n_other,2019,,,0.0
+1284,U.S. Territories,all_energy_types,2019,,,0.0
+1285,U.S. Territories,coal,2019,,,0.0
+1286,U.S. Territories,natural_gas,2019,,,
+1287,U.S. Territories,petroleum_n_other_liquids,2019,,,
+1288,U.S. Territories,nuclear,2019,,,0.0
+1289,U.S. Territories,renewables_n_other,2019,,,0.0
+1290,U.S. Virgin Islands,all_energy_types,2019,1.883,95.668,2.438125286
+1291,U.S. Virgin Islands,coal,2019,1.883,95.668,0.0
+1292,U.S. Virgin Islands,natural_gas,2019,1.883,95.668,0.0
+1293,U.S. Virgin Islands,petroleum_n_other_liquids,2019,1.883,95.668,2.4381252858457927
+1294,U.S. Virgin Islands,nuclear,2019,1.883,95.668,0.0
+1295,U.S. Virgin Islands,renewables_n_other,2019,1.883,95.668,0.0
+1296,Uganda,all_energy_types,2019,103.1059,44216.2,5.866205464
+1297,Uganda,coal,2019,103.1059,44216.2,0.0
+1298,Uganda,natural_gas,2019,103.1059,44216.2,0.0
+1299,Uganda,petroleum_n_other_liquids,2019,103.1059,44216.2,5.866205464
+1300,Uganda,nuclear,2019,103.1059,44216.2,0.0
+1301,Uganda,renewables_n_other,2019,103.1059,44216.2,0.0
+1302,Ukraine,all_energy_types,2019,487.698,42153.2,202.513341064
+1303,Ukraine,coal,2019,487.698,42153.2,113.00325555532876
+1304,Ukraine,natural_gas,2019,487.698,42153.2,58.048039509
+1305,Ukraine,petroleum_n_other_liquids,2019,487.698,42153.2,31.462046
+1306,Ukraine,nuclear,2019,487.698,42153.2,0.0
+1307,Ukraine,renewables_n_other,2019,487.698,42153.2,0.0
+1308,United Arab Emirates,all_energy_types,2019,663.292,9764.9,274.042277491
+1309,United Arab Emirates,coal,2019,663.292,9764.9,4.58553126028265
+1310,United Arab Emirates,natural_gas,2019,663.292,9764.9,143.035907999
+1311,United Arab Emirates,petroleum_n_other_liquids,2019,663.292,9764.9,126.420838232
+1312,United Arab Emirates,nuclear,2019,663.292,9764.9,0.0
+1313,United Arab Emirates,renewables_n_other,2019,663.292,9764.9,0.0
+1314,United Kingdom,all_energy_types,2019,2992.817,66827.7,411.167847675
+1315,United Kingdom,coal,2019,2992.817,66827.7,33.602339019034055
+1316,United Kingdom,natural_gas,2019,2992.817,66827.7,159.178897932
+1317,United Kingdom,petroleum_n_other_liquids,2019,2992.817,66827.7,218.386610724
+1318,United Kingdom,nuclear,2019,2992.817,66827.7,0.0
+1319,United Kingdom,renewables_n_other,2019,2992.817,66827.7,0.0
+1320,United States,all_energy_types,2019,19925.43,330043.8,5277.192754
+1321,United States,coal,2019,19925.43,330043.8,1262.555409
+1322,United States,natural_gas,2019,19925.43,330043.8,1626.410978
+1323,United States,petroleum_n_other_liquids,2019,19925.43,330043.8,2388.226367
+1324,United States,nuclear,2019,19925.43,330043.8,0.0
+1325,United States,renewables_n_other,2019,19925.43,330043.8,0.0
+1326,Uruguay,all_energy_types,2019,78.0812,3461.37,7.311541742
+1327,Uruguay,coal,2019,78.0812,3461.37,0.0004336153813243
+1328,Uruguay,natural_gas,2019,78.0812,3461.37,0.107846127
+1329,Uruguay,petroleum_n_other_liquids,2019,78.0812,3461.37,7.203262
+1330,Uruguay,nuclear,2019,78.0812,3461.37,0.0
+1331,Uruguay,renewables_n_other,2019,78.0812,3461.37,0.0
+1332,Uzbekistan,all_energy_types,2019,257.435,32966.1,99.389348903
+1333,Uzbekistan,coal,2019,257.435,32966.1,7.670300066102865
+1334,Uzbekistan,natural_gas,2019,257.435,32966.1,79.921306837
+1335,Uzbekistan,petroleum_n_other_liquids,2019,257.435,32966.1,11.797742
+1336,Uzbekistan,nuclear,2019,257.435,32966.1,0.0
+1337,Uzbekistan,renewables_n_other,2019,257.435,32966.1,0.0
+1338,Vanuatu,all_energy_types,2019,0.761102,299.933,0.234325792
+1339,Vanuatu,coal,2019,0.761102,299.933,0.0
+1340,Vanuatu,natural_gas,2019,0.761102,299.933,0.0
+1341,Vanuatu,petroleum_n_other_liquids,2019,0.761102,299.933,0.2343257917292422
+1342,Vanuatu,nuclear,2019,0.761102,299.933,0.0
+1343,Vanuatu,renewables_n_other,2019,0.761102,299.933,0.0
+1344,Venezuela,all_energy_types,2019,190.1472,28515.85,131.48505504
+1345,Venezuela,coal,2019,190.1472,28515.85,0.1271855908900076
+1346,Venezuela,natural_gas,2019,190.1472,28515.85,54.552918449
+1347,Venezuela,petroleum_n_other_liquids,2019,190.1472,28515.85,76.804951
+1348,Venezuela,nuclear,2019,190.1472,28515.85,0.0
+1349,Venezuela,renewables_n_other,2019,190.1472,28515.85,0.0
+1350,Vietnam,all_energy_types,2019,915.504,96425.9,241.806422052
+1351,Vietnam,coal,2019,915.504,96425.9,159.98720532140192
+1352,Vietnam,natural_gas,2019,915.504,96425.9,16.002557731
+1353,Vietnam,petroleum_n_other_liquids,2019,915.504,96425.9,65.816659
+1354,Vietnam,nuclear,2019,915.504,96425.9,0.0
+1355,Vietnam,renewables_n_other,2019,915.504,96425.9,0.0
+1356,Wake Island,all_energy_types,2019,,,1.273786855
+1357,Wake Island,coal,2019,,,0.0
+1358,Wake Island,natural_gas,2019,,,0.0
+1359,Wake Island,petroleum_n_other_liquids,2019,,,1.2737868546239928
+1360,Wake Island,nuclear,2019,,,0.0
+1361,Wake Island,renewables_n_other,2019,,,0.0
+1362,Western Sahara,all_energy_types,2019,,,0.26303824
+1363,Western Sahara,coal,2019,,,0.0
+1364,Western Sahara,natural_gas,2019,,,0.0
+1365,Western Sahara,petroleum_n_other_liquids,2019,,,0.2630382398978614
+1366,Western Sahara,nuclear,2019,,,0.0
+1367,Western Sahara,renewables_n_other,2019,,,0.0
+1368,Yemen,all_energy_types,2019,53.0838,29162.2,8.292505229
+1369,Yemen,coal,2019,53.0838,29162.2,0.2213726885589817
+1370,Yemen,natural_gas,2019,53.0838,29162.2,0.18277454
+1371,Yemen,petroleum_n_other_liquids,2019,53.0838,29162.2,7.888358
+1372,Yemen,nuclear,2019,53.0838,29162.2,0.0
+1373,Yemen,renewables_n_other,2019,53.0838,29162.2,0.0
+1374,Zambia,all_energy_types,2019,247.1819,17873.85,7.09628982
+1375,Zambia,coal,2019,247.1819,17873.85,2.8941022257256
+1376,Zambia,natural_gas,2019,247.1819,17873.85,0.0
+1377,Zambia,petroleum_n_other_liquids,2019,247.1819,17873.85,4.20218759386
+1378,Zambia,nuclear,2019,247.1819,17873.85,0.0
+1379,Zambia,renewables_n_other,2019,247.1819,17873.85,0.0
+1380,Zimbabwe,all_energy_types,2019,37.6204,14654.2,8.964759021
+1381,Zimbabwe,coal,2019,37.6204,14654.2,4.586869076908337
+1382,Zimbabwe,natural_gas,2019,37.6204,14654.2,0.0
+1383,Zimbabwe,petroleum_n_other_liquids,2019,37.6204,14654.2,4.377889944348768
+1384,Zimbabwe,nuclear,2019,37.6204,14654.2,0.0
+1385,Zimbabwe,renewables_n_other,2019,37.6204,14654.2,0.0
