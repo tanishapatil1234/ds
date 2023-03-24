@@ -537,7 +537,7 @@ p code { font-size: 19px; }
 
 p code { font-size: 19px; }
 
-html, body, input, textarea, select, button { color: rgba(254, 239, 229, 0.38) !important; background-color: #0d1734 !important; }
+html, body, input, textarea, select, button { color: rgba(254, 239, 229, 0.38) !important; background-color: #000000 !important; }
 
 a { color: #FEEFE5 !important; }
 
@@ -545,11 +545,11 @@ a:hover { color: rgba(254, 239, 229, 0.38) !important; }
 
 .site-title, .site-title:visited, .site-nav, .page-link { color: rgba(254, 239, 229, 0.38) !important; }
 
-.site-nav { background-color: #0d1734; border-color: #e243af; }
+.site-nav { background-color: #000000; border-color: #e243af; }
 
-* { scrollbar-color: #0d1734 #e243af; }
+* { scrollbar-color: #000000 #e243af; }
 
-pre, code { border-color: #e243af; background-color: #19223d; }
+pre, code { border-color: #e243af; background-color: #0d0c0b; }
 
 .page-description { color: rgba(254, 239, 229, 0.38); }
 
@@ -557,19 +557,19 @@ pre, code { border-color: #e243af; background-color: #19223d; }
 
 .post-content p, .post-content li { color: rgba(254, 239, 229, 0.38); }
 
-.btn { background-color: #19223d !important; color: rgba(254, 239, 229, 0.38) !important; border-color: #e243af !important; }
+.btn { background-color: #0d0c0b !important; color: rgba(254, 239, 229, 0.38) !important; border-color: #e243af !important; }
 
-.btn:hover { background-color: #0d1734 !important; }
+.btn:hover { background-color: #000000 !important; }
 
-table th { background-color: #19223d; border-color: #e243af; color: rgba(254, 239, 229, 0.38); }
+table th { background-color: #0d0c0b; border-color: #e243af; color: rgba(254, 239, 229, 0.38); }
 
-table td { background-color: #0d1734; border-color: #e243af; color: rgba(254, 239, 229, 0.38); }
+table td { background-color: #000000; border-color: #e243af; color: rgba(254, 239, 229, 0.38); }
 
-.flash { color: #0d1734 !important; filter: brightness(80%); }
+.flash { color: #000000 !important; filter: brightness(80%); }
 
 canvas { filter: invert(100%); }
 
-.post-list > li > div { box-shadow: none !important; background-color: #19223d; border: none !important; }
+.post-list > li > div { box-shadow: none !important; background-color: #0d0c0b; border: none !important; }
 
 li .post-meta-description { color: rgba(254, 239, 229, 0.38) !important; }
 
