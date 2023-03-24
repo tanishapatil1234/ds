@@ -15,10 +15,10 @@
 $high-emph: rgba(#FEEFE5, 0.38);
 $med-emph: rgba(#FEEFE5, 0.38); //Noicee
 $low-emph: rgba(#FEEFE5, 0.38); 
-$dark-grey : #ffffff;
+$dark-grey : #0d1734;
 // $dark-grey : #1F1B24;
 $overlay: mix($dark-grey, #FEEFE5, 95%);
-$overlay-light: mix($dark-grey, #FEEFE5, 86%);
+$overlay-light: #e243af;
 html, body, input, textarea, select, button {
   color: $high-emph !important;
   background-color: $dark-grey !important;
