@@ -1,0 +1,12 @@
+{% if page.nbformat == 4 %}
+<script>
+    (function() {
+        var all_plots = document.querySelectorAll('.plotly[data-plotly]');
+        for (var i = 0; i < all_plots.length; i++) {
+            var plot = all_plots[i];
+            var plot_json = JSON.parse(plot.getAttribute('data-plotly'));
+            Plotly.newPlot(plot, plot_json.data, plot_json.layout, plot_json.config);
+        }
+    })();
+</script>
+{% endif %}
